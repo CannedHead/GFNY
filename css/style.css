@@ -1,0 +1,226 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400italic);
+
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('../fonts/bebasneue-webfont.eot');
+    src: url('../fonts/bebasneue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bebasneue-webfont.woff2') format('woff2'),
+         url('../fonts/bebasneue-webfont.woff') format('woff'),
+         url('../fonts/bebasneue-webfont.ttf') format('truetype'),
+         url('../fonts/bebasneue-webfont.svg#bebas_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bebas_neuebook';
+    src: url('../fonts/bebasneue_book-webfont.eot');
+    src: url('../fonts/bebasneue_book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bebasneue_book-webfont.woff2') format('woff2'),
+         url('../fonts/bebasneue_book-webfont.woff') format('woff'),
+         url('../fonts/bebasneue_book-webfont.ttf') format('truetype'),
+         url('../fonts/bebasneue_book-webfont.svg#bebas_neuebook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bebas_neuelight';
+    src: url('../fonts/bebasneue_light-webfont.eot');
+    src: url('../fonts/bebasneue_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bebasneue_light-webfont.woff2') format('woff2'),
+         url('../fonts/bebasneue_light-webfont.woff') format('woff'),
+         url('../fonts/bebasneue_light-webfont.ttf') format('truetype'),
+         url('../fonts/bebasneue_light-webfont.svg#bebas_neuelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bebas_neuethin';
+    src: url('../fonts/bebasneue_thin-webfont.eot');
+    src: url('../fonts/bebasneue_thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bebasneue_thin-webfont.woff2') format('woff2'),
+         url('../fonts/bebasneue_thin-webfont.woff') format('woff'),
+         url('../fonts/bebasneue_thin-webfont.ttf') format('truetype'),
+         url('../fonts/bebasneue_thin-webfont.svg#bebas_neuethin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html,body{
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #333333;
+	margin: 0;
+}
+
+.img-responsive{
+	width:100%;
+}
+
+.no-padding{
+	padding:0;
+}
+
+a,
+a:active,
+a:focus{
+	color:#FFF;
+	outline: none !important;
+	text-decoration: none;
+}
+a:hover{
+	color:#5EFD00;
+	text-decoration: none;
+}
+
+.subheader{
+	background-color: #333333;
+	color:#FFF;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.subheader a,
+.subheader a:hover,
+.subheader a:focus,
+.subheader a:active{
+	font-weight: bold;	
+}
+
+.subheader a.active{
+	color:#5EFD00;
+}
+
+.subheader .social-media{
+	margin-left: 15px;
+	float: right;
+}
+
+.subheader .social-media a{
+	margin:0 2px;
+}
+
+.social-media a:hover  i.fa-facebook{
+	color:#3A5795;
+}
+
+.social-media a:hover i.fa-twitter{
+	color:#55ACEE;
+}
+
+.header{
+	background-color: #333333;
+	position:relative;
+}
+
+.header .logo{
+	margin-top:5px;
+	margin-bottom:15px;
+}
+
+.header .menu {
+	position: absolute;
+	right:0;
+	bottom:5px;
+	font-weight: lighter;
+	font-size: 20px;
+}
+
+.header .menu a{
+	position: absolute;
+	font-family: 'bebas_neuebook';
+    color: #5EFD00;
+    right: 55px;
+    bottom: 1px;
+}
+
+.header .navbar-toggle{
+	position: absolute;
+    right: 0;
+    bottom:0;
+    color:#5EFD00;
+    padding: 0 10px;
+}
+
+.header  .navbar-toggle .icon-bar {
+    background-color: #5EFD00;;
+}
+
+.header .line{
+	position: absolute;
+	bottom: 0px;
+	margin-bottom: 6px;
+	height: 1px;
+	background-color: silver;
+}
+
+.navbar-gnfy{
+	width:100%;
+	background-color: #A9A9A9;
+	height:52px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.navbar-gnfy ul{
+	width:100%;
+}
+
+.navbar-gnfy ul > li {
+	width: 12.5%;
+	border:1px solid #8E8E8E;
+	padding: 0px;
+}
+
+.navbar-gnfy ul > li > a{
+	font-family: 'bebas_neueregular';
+	padding: 15px 0px;
+	font-size:1.7em;
+	color:#000;
+}
+
+.pauta{
+	margin-bottom: 10px;
+}
+
+.img-index-one{
+	margin-bottom: 10px;
+}
+
+.title{
+	width:100%;
+	position:absolute;
+	color:#FFF;
+	bottom:0;
+	padding:0px 5px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:2em;
+	background-color: rgba(0,0,0,0.7);
+}
+
+.title .control-next{
+	position:absolute;
+	bottom: 0;
+	right: 5px;
+	color:#FFF;
+}
+
+/* CONTACTO */
+.contacto {
+	height:500px;
+	background: url(http://placehold.it/950x500) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.contacto h1{
+	font-size: 2em;
+	color:#FFF;
+}

@@ -1,0 +1,3 @@
+
+RewriteEngine On 
+RewriteRule ^contacto$ contacto.php [NC,L]

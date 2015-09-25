@@ -266,6 +266,10 @@ a:hover{
 	font-size: 25px;
 }
 
+.register{
+	font-family: 'exolight';
+}
+
 .register h3 {
     height: 54px;
     line-height: 54px;

@@ -138,10 +138,17 @@
             </div>
           </div>
           <!-- END NEWSLETTER -->
- 
+          
+           <!-- PAUTA -->
+          <div class="pauta col-xs-12 col-sm-4">
+            <img class="img-responsive hidden-xs" src="http://placehold.it/795x160/FFEC00/000000?text=PAUTA-WEB">
+            <img class="img-responsive visible-xs-block" src="http://placehold.it/360x65/FFEC00/000000?text=PAUTA-MOBILE">
+          </div>
+          <!-- END PAUTA -->
+
           <!-- FB -->
           <div class="fb col-xs-12 col-sm-4">
-            <img class="img-responsive" src="http://placehold.it/1095x565/29ABE1/000000?text=FB/">
+            <img class="img-responsive" src="http://placehold.it/1095x760/29ABE1/000000?text=FB/">
           </div>
           <!-- END FB -->
           

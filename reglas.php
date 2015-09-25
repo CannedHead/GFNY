@@ -65,6 +65,30 @@
 
 				</p>
 			</div>
+
+			<div class='col-xs-12'>
+				<h2 class='pull-left'>4. Partida</h2>
+			</div>
+			
+			<div class='col-xs-12'>
+				<p>
+					4.1. La partida es a las 7:00 am.<br>
+					El acceso al área de partida se hará solo desde las entradas designadas, las cuales serán informadas por correo electrónico con un mes de anticipación a la carrera. A los corredores que no porten el número de bibicleta de GFNYCOL, el número de camiseta (si fue provisto por GFNYCOL), el casco y la muñequera en el punto de control, les será negado el acceso al área de partida.<br><br>
+
+					4.2. Los corrales de partida cierran a las 6:30 am. Después de esa hora no se permitirá la entrada a ningún corredor a los corrales de partida, ni podrá participar en la competencia.<br><br>
+
+					4.3. Orden de partida:
+
+					(1) Corral VIP. corredores inscritos en VIP; corredores que hayan sido campeones o entraron entre los primeros 5 en ediciones previas de GFNY (General, por edad o equipo); invitados especiales.<br><br>
+
+					(2) Corrales Competitivos:<br><br>
+
+					(2.1) Corredores con licencia máster activa en varios corrales de acuerdo con su ranking.<br>
+					Requerimiento mínimo: Categ. 1-3 Hombres, Categ. 1-2 Mujeres, Categ. 1-2 Master hombres, Categ. 1-2 Master Mujeres.<br><br>
+
+				</p>
+			</div>
+
 		</div>
 	</div>
 <?php include 'footer.php';?>    

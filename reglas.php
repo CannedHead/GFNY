@@ -13,7 +13,7 @@
 			</div>
 			
 			<div class='col-xs-12'>
-				<p>
+				<p id='regla-one'>
 					1. GFNY COLOMBIA ("GFNYCOL") es una competencia ciclística en la que los ciclistas son cronometrados individualmente.<br>
 				</p>
 			</div>

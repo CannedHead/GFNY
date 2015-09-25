@@ -49,7 +49,7 @@
               <!-- END IMG2 & IMG3 -->
               
               <!-- IMG4 -->
-              <div class="col-xs-12 no-padding">
+              <div class="col-xs-12  no-padding">
                 <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/sportograf-58993649.jpg">
                 <div class="title">
                   <p><strong>GFNY</strong><br>Los paisajes de la sabana de Bogotá</p>
@@ -73,11 +73,19 @@
           <!-- PAUTA -->
           <div class="pauta col-xs-12">
             <img class="img-responsive hidden-xs" src="http://placehold.it/1095x65/FFEC00/000000?text=PAUTA-WEB">
-            <img class="img-responsive visible-xs-block" src="http://placehold.it/360x65/FFEC00/000000?text=PAUTA-MOBILE">
           </div>
           <!-- END PAUTA -->
+
           <!-- REGISTRATION -->
-          <div class="register col-xs-12 col-sm-8">
+          <div class="register col-xs-12 col-sm-8">     
+            <div class="row">
+              <div class="pauta col-xs-12">
+                <img class="img-responsive" src="http://placehold.it/1095x280/F0EFF0/000000?text=circulos-WEB">
+              </div>   
+              <div class="pauta col-xs-12 visible-xs-block">
+                <img class="img-responsive" src="http://placehold.it/360x65/FFEC00/000000?text=PAUTA-MOBILE">
+              </div>  
+            </div>    
             <h3 class="text-center">Registration information</h3>
             <div class="table-responsive">
               <table class="table">
@@ -148,13 +156,12 @@
 
           <!-- FB -->
           <div class="fb col-xs-12 col-sm-4">
-            <img class="img-responsive" src="http://placehold.it/1095x760/29ABE1/000000?text=FB/">
+            <img class="img-responsive" src="http://placehold.it/1095x1122/29ABE1/000000?text=FB/">
           </div>
           <!-- END FB -->
           
           <!-- PAUTA -->
-          <div class="pauta col-xs-12">
-            <img class="img-responsive hidden-xs" src="http://placehold.it/1095x65/FFEC00/000000?text=PAUTA-WEB">
+          <div class="pauta col-xs-12 visible-xs-block">
             <img class="img-responsive visible-xs-block" src="http://placehold.it/360x65/FFEC00/000000?text=PAUTA-MOBILE">
           </div>
           <!-- END PAUTA -->

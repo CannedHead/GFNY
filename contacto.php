@@ -1,5 +1,6 @@
 <?php include 'header.php';?>  
 <div class="col-xs-12 contacto">
+	<img src="">
 	<div class="row">
 		<div class="hidden-xs col-sm-2 col-sm-offset-5">
 			<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO+GFNY.svg">
@@ -22,9 +23,10 @@
 		<div class="col-sm-7">
 			<div class="form-group">
 			    <label for="inputQuestion">Pregunta</label>
-			    <textarea rows="4"></textarea> 
+			    <textarea class="form-control" rows="4"></textarea> 
 			</div>
-		</div>
+			<input class="btn btn-block btn-lg btn-gfny" type="submit">
+		</div>		
 	</form>
 </div>
 <?php include 'footer.php';?>    

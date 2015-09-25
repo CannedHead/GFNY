@@ -373,6 +373,7 @@ a:hover{
 	.title{
 		font-size:2em;
 		height:85px;
+	}
 }
 
 /* _   _   _   _   _   _   _   _   _   _   _   _   _  
@@ -477,4 +478,72 @@ a:hover{
 		top: 2%;
   		right: 7.5%;
 	}
+}
+
+/* _   _   _     _     _   _   _   _   _  
+  / \ / \ / \   / \   / \ / \ / \ / \ / \ 
+ ( R | E | Y ) ( & ) ( R | E | I | N | A )
+  \_/ \_/ \_/   \_/   \_/ \_/ \_/ \_/ \_/ 
+*/
+
+ .reyreina hr {
+  display: block;
+  width: 100%;
+  margin: 1em auto;
+  border: 1px solid #B3B3B3;
+  transition: all 0.9s ease-in-out 0s;
+}
+
+.reyreina:hover hr{
+  width:90%;
+}
+
+.reyreina h1{
+	font-size: 2.4em;
+	color:#FFF;
+	font-weight: 900;
+}
+
+.reyreina p{
+	font-size: 1.7em;
+	color:#FFF;
+	font-weight: 550;
+	text-align: justify;
+}
+
+/* _   _   _   _   _   _  
+  / \ / \ / \ / \ / \ / \ 
+ ( R | E | G | L | A | S )
+  \_/ \_/ \_/ \_/ \_/ \_/ 
+ */
+
+ .reglas hr {
+  display: block;
+  width: 100%;
+  margin: 1em auto;
+  border: 1px solid #B3B3B3;
+  transition: all 0.9s ease-in-out 0s;
+}
+
+.reglas:hover hr{
+  width:90%;
+}
+
+.reglas h1{
+	font-size: 2.6em;
+	color:#5EFD00;
+	font-weight: 900;
+}
+
+.reglas h2{
+	font-size: 2.4em;
+	color:#5EFD00;
+	font-weight: 900;
+}
+
+.reglas p{
+	font-size: 1.7em;
+	color:#FFF;
+	font-weight: 550;
+	text-align: justify;
 }

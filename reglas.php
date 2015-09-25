@@ -19,7 +19,7 @@
 			</div>
 
 			<div class='col-xs-12'>
-				<h2 class='pull-left'>2. Inscripción</h1>
+				<h2 class='pull-left'>2. Inscripción</h2>
 			</div>
 			
 			<div class='col-xs-12'>
@@ -42,16 +42,29 @@
 			</div>
 
 			<div class='col-xs-12'>
-				<h2 class='pull-left'>3. Equipo</h1>
+				<h2 class='pull-left'>3. Equipo</h2>
 			</div>
 			
 			<div class='col-xs-12'>
 				<p>
-				3.1. Estará permitida toda bicicleta que esté en condiciones técnicas de circular.
+					3.1. Estará permitida toda bicicleta que esté en condiciones técnicas de circular. Por razones de seguridad, no se permiten las siguientes: bicicletas prono, bicicletas recicladas, bicicletas con asiento ergonómico completo (excepto si en caso de atletas discapacitados), biciclos o monocliclos. Cualquier bicicleta que no sea considerada segura puede ser prohibida en cualquier momento del evento.<br><br>
+
+					3.2. Las bicicletas y manubrios de triatlón no son permitidos. Cualquier violación a la regla puede resultar en la inmediata descalificación del participante.<br><br>
+
+					3.3. En todo momento los ciclistas deben portar cascos, los cuales deberán estar asegurados con correas de barbilla siempre que los cilcistas estén montando la bicicleta.<br><br>
+
+					3.4. Número de bicicleta: las correas de la placa con el número deben estar sujetas al manubrio y estar siempre claramente visibles desde el frente. Cualquier alteración del número puede dar lugar a descalificación.
+
+					3.5. Número de maillot (sujeto a la camiseta): el número de competencia debe ir en los bolsillos de la camiseta, sujeto con ganchos de nodriza. La alteración de un número o su ubicación en una posición diferente puede llevar a la descalificación. El GFNYCOL puede decidir, a discreción, si incluye o no este número en el kit entregado al participante.<br><br>
+
+					3.6. Muñequera: Debe portarse la muñequera en todo momento durante el evento.<br><br>
+
+					3.7. Los participantes deben llevar al menos un neumático extra y una bomba en buen estado o un cartucho de CO2.<br><br>
+
+					3.8. Están prohibidos los audífonos / uso de repodroductores de música de cualquier formato.<br>
 
 				</p>
 			</div>
-
 		</div>
 	</div>
 <?php include 'footer.php';?>    

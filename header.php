@@ -51,8 +51,8 @@
           <nav class="navbar-gnfy">
             <ul class="nav navbar-nav">
                 <li class="active">
-                  <a href="#">
-                    <img style="width:20px; height:auto;" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO+GFNY.svg">
+                  <a href="#" class="brand">
+                    <img src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO+GFNY.svg">
                   </a>
                 </li>
                 <li><a href="#">CARRERA</a>

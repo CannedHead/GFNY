@@ -4,8 +4,10 @@
 		<hr class='visible-xs'>
 		<div class='col-xs-12'>
 			
-			<div class ='hidden-xs col-md-12'>
-				<img class="img-responsive" src="http://lorempixel.com/640/132/sports/">
+			<div class ='hidden-xs col-md-12 pageheader'>
+				<img class="img-responsive" src="http://lorempixel.com/1240/232/sports/">
+				<div class="headerlayer"></div>
+				<div class="triangle"></div>
 			</div>
 			
 			<div class='col-xs-12 visible-xs'>

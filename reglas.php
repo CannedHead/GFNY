@@ -5,9 +5,7 @@
 		<div class='col-xs-12'>
 			
 			<div class ='hidden-xs col-md-12 pageheader'>
-				<img class="img-responsive" src="http://lorempixel.com/1240/232/sports/">
-				<div class="headerlayer"></div>
-				<div class="triangle"></div>
+				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Reglas-01.jpg">
 			</div>
 			
 			<div class='col-xs-12 visible-xs'>

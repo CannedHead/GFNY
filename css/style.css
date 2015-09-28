@@ -565,19 +565,19 @@ a:hover{
 }
 
 .reglas h1{
-	font-size: 2.6em;
+	font-size: 1.8em;
 	color:#5EFD00;
 	font-weight: 900;
 }
 
 .reglas h2{
-	font-size: 2.4em;
+	font-size: 1.6em;
 	color:#5EFD00;
 	font-weight: 900;
 }
 
 .reglas p{
-	font-size: 1.7em;
+	font-size: 1em;
 	color:#FFF;
 	font-weight: 550;
 	text-align: justify;
@@ -586,6 +586,20 @@ a:hover{
 @media (min-width: 750px) { 
 	#regla-one{
 		margin-top:5%;
+	}
+}
+
+@media (min-width: 768px) { 
+	.reglas h1{
+		font-size: 2.6em;
+	}
+
+	.reglas h2{
+		font-size: 2.4em;
+	}
+
+	.reglas p{
+		font-size: 1.7em;
 	}
 }
 

@@ -368,48 +368,7 @@ a:hover{
 }
 
 
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) { 
-	.navbar-gnfy ul > li > a.brand{
-		padding:3px 0;
-	}
-	
-	.navbar-gnfy ul > li > a.brand > img{
-		width:40px;
-		height:auto;
-	}
 
-	.title{
-		font-size:1.25em;
-		height:60px;
-	}
-
-	.contacto h1{
-		font-size: 3em;
-		top:52%;
-	}
-}
-
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-	.title{
-		font-size:1.5em;
-		height:70px;
-	}
-
-	.contacto h1{
-		font-size: 5em;
-		
-	}
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-	.title{
-		font-size:2em;
-		height:85px;
-	}
-}
 
 /* _   _   _   _   _   _   _   _   _   _   _   _   _  
   / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
@@ -674,4 +633,90 @@ a:hover{
   margin:10% 0 8% 0;
   float: left;
   background-color: #5D5D5D;
+}
+
+
+/*CATEGORIAS*/
+.categoria{
+	position:relative;
+}
+
+.categoria-wrapper{
+	width: 100%;
+	position: relative;
+}
+
+.categoria h2{
+	position: absolute;
+	background-color: rgba(0, 0, 0, 0.8);
+	color: #FFF;
+	top: 50%;
+	margin-top: -16px;
+	width: 100%;
+	left: 0px;
+	font-size: 18px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.categorias h2{
+	color: #4CAC14;
+}
+
+.categorias p{
+	color:#FFF;
+}
+
+
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+	.navbar-gnfy ul > li > a.brand{
+		padding:3px 0;
+	}
+	
+	.navbar-gnfy ul > li > a.brand > img{
+		width:40px;
+		height:auto;
+	}
+
+	.title{
+		font-size:1.25em;
+		height:60px;
+	}
+
+	.contacto h1{
+		font-size: 3em;
+		top:52%;
+	}
+
+	.categorias p{
+		color:#000;
+		background-color:rgba(255,255,255,0.5);
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	.title{
+		font-size:1.5em;
+		height:70px;
+	}
+
+	.contacto h1{
+		font-size: 5em;
+		
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	.title{
+		font-size:2em;
+		height:85px;
+	}
 }

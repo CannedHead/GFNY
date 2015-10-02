@@ -79,9 +79,15 @@
 		   		</div>
 		    </div>
 
-			<div class='col-xs-12 col-md-6 categorias-top'>
-				<h2>Equipos</h2>
-				<h1>GNFY COLOMBIA.</h1>
+			<div class='col-md-12 hidden-xs title-md categorias-top'>
+				<div class='col-md-12'>
+					<h2 class='hidden-xs'> Equipos GNFY COLOMBIA.</h2>
+				</div>
+			</div>	
+
+			<div class='col-xs-12 col-md-6 text-md'>
+				<h2 class='visible-xs'>Equipos</h2>
+				<h1 class='visible-xs'>GNFY COLOMBIA.</h1>
 				<p class='ruta-p'>
 		  		   1. 18-39 h/m (hombres/mujeres)<br>
 				   2. 40-44 h/m<br>
@@ -91,14 +97,14 @@
 				   6. 60-64 h/m<br>
 				   7. Más de 65 m<br>
 				   8. 65-69 h<br>
-				   9. Más de 70 h<br>
-				   10. Menos de 90 años la suma de edades Él y Ella: se suman los tiempos de un equipo de género mixto. Los ciclistas deben estar a menos de 30 segundos entre sí al pasar por el punto de control. Se permite y se promueve la asistencia externa entre compañeros de equipo. No se permiten instrumentos para empujar o arrastrar.<br>
-				   11. Más de 90 años la suma de edades Él y Ella: se suman los tiempos de un equipo de género mixto. Los ciclistas deben estar a menos de 30 segundos entre sí al pasar por el punto de control.
+				   9. Más de 70 h<br><br>
+				   10. Menos de 90 años la suma de edades Él y Ella: se suman los tiempos de un equipo de género mixto. Los ciclistas deben estar a menos de 30 segundos entre sí al pasar por el punto de control. Se permite y se promueve la asistencia externa entre compañeros de equipo. No se permiten instrumentos para empujar o arrastrar.<br><br>
+				   11. Más de 90 años la suma de edades Él y Ella: se suman los tiempos de un equipo de género mixto. Los ciclistas deben estar a menos de 30 segundos entre sí al pasar por el punto de control.<br>
 				</p>
 			</div>
 
-			<div class ='col-xs-12 col-md-6 hidden-xs categorias-top'>
-				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/ruta.png">
+			<div class ='col-xs-12 col-md-6 hidden-xs '>
+				<img class="img-responsive" src="img/categoria3.jpg">
 			</div>
 
 		</div>
@@ -107,11 +113,18 @@
 	<div class='gray'></div>	
 
 	<div class="col-xs-12 categorias">
-		<div class='col-xs-12'>
 		
-			<div class='col-xs-12 col-md-6'>
-				<h2> CORRALES </h2>
-				<h1>DE PARTIDA</h1>
+		<div class='col-md-12 hidden-xs title-md'>
+			<div class='col-md-12'>
+				<h2 class='hidden-xs'> CORRALES DE PARTIDA </h2>
+			</div>
+		</div>	
+
+		<div class='col-xs-12'>
+			
+			<div class='col-xs-12 col-md-6 text-md'>
+				<h2 class='visible-xs'> CORRALES </h2>
+				<h1 class='visible-xs'>DE PARTIDA</h1>
 				<p class='ruta-p'>
 					En GFNY COLOMBIA el propósito ubicarlo en el corral de acuerdo con su condición física. De esa manera usted estará rodeado de ciclistas que corren en su mismo nivel desde el principio, lo que mejora su experiencia.<br><br>
 					
@@ -131,7 +144,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-6 hidden-xs'>
-				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/ruta.png">
+				<img class="img-responsive" src="img/categoria1.jpg">
 			</div>
 		</div>
 	</div>
@@ -139,11 +152,18 @@
 	<div class='gray'></div>	
 
 	<div class="col-xs-12 categorias">
+
+		<div class='col-md-12 hidden-xs title-md'>
+			<div class='col-md-12'>
+				<h2 class='hidden-xs'> COMPETENCIA POR EQUIPOS </h2>
+			</div>
+		</div>	
+
 		<div class='col-xs-12'>
 			
-			<div class='col-xs-12 col-md-6 '>
-				<h2> COMPETENCIA</h2>
-				<h1>POR EQUIPOS</h1>
+			<div class='col-xs-12 col-md-6 text-md'>
+				<h2 class='visible-xs'> COMPETENCIA</h2>
+				<h1 class='visible-xs'>POR EQUIPOS</h1>
 				<p class='ruta-p'>
 					Las personas se pueden registrar como miembros de un equipo para participar en la competencia por Equipos GFNYCOL.<br><br>
 
@@ -160,7 +180,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-6 hidden-xs'>
-				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/ruta.png">
+				<img class="img-responsive" src="img/categoria4.jpg">
 			</div>
 		</div>
 	</div>
@@ -168,11 +188,18 @@
 	<div class='gray'></div>	
 
 	<div class="col-xs-12 categorias" style='margin-bottom:10%'>
+
+		<div class='col-md-12 hidden-xs title-md'>
+			<div class='col-md-12'>
+				<h2 class='hidden-xs'> CATEGORÍA ÉL-ELLA </h2>
+			</div>
+		</div>	
+
 		<div class='col-xs-12'>
 			
-			<div class='col-xs-12 col-md-6 '>
-				<h2> CATEGORÍA</h2>
-				<h1>EL-ELLA</h1>
+			<div class='col-xs-12 col-md-6 text-md'>
+				<h2 class='visible-xs'> CATEGORÍA</h2>
+				<h1 class='visible-xs'>EL-ELLA</h1>
 				<p class='ruta-p'>
 					Los ciclistas hombre y mujer deben llegar a menos de treinta segundos entre sí.<br><br>
 
@@ -185,7 +212,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-6 hidden-xs'>
-				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/ruta.png">
+				<img class="img-responsive" src="img/categoria2.jpg">
 			</div>
 		</div>
 	</div>

@@ -3,6 +3,7 @@
 	<div class="col-xs-12 categorias">
 		<hr class='visible-xs'>
 		<div class='col-xs-12'>
+
     		<!-- Swiper for mobile -->
 		    <div class="swiper-container col-xs-12 visible-xs">
 		        <div class="swiper-wrapper">
@@ -38,36 +39,44 @@
 		    </div>	
 
     		<!-- Div for web -->
-		    <div class="col-md-12 hidden-xs" style='margin-top: 1.2%'>
-				<div class="container">
-					<p>Las personas pueden inscribirse individualmente o también como miembros de un equipo para participar en la Competencia por</p>
-				</div>
+		    <div class="col-md-12 hidden-xs web-nav" style='margin-top: 1.2%'>
+				<p>
+					Las personas pueden inscribirse individualmente o también como miembros de un equipo para participar en la Competencia por
+				</p>
+				
 				<div class="row">
-					<a href="#" class="col-xs-12 col-sm-6 categoria">
+					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-right top categoria">
 						<div class="categoria-wrapper">
 						    <img class="img-responsive" src="img/categoria3.jpg">
 						    <h3 class="text-center">Equipos GNFY COLOMBIA</h3>
 					    </div>
+					    <div class='square'></div>
 				  	</a>
-					<a href="#" class="col-xs-12 col-sm-6 categoria">
+					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-left top categoria">
 						<div class="categoria-wrapper">
 						    <img class="img-responsive" src="img/categoria1.jpg">
 						    <h3 class="text-center">Corrales de partida</h3>
 					    </div>
+					    <div class='square'></div>
 				  	</a>
 			  	</div>
-				<a href="#" class="col-xs-12 col-sm-6 categoria">
-					<div class="categoria-wrapper">
-					    <img class="img-responsive" src="img/categoria4.jpg">
-					    <h3 class="text-center">Competencia por equipos</h3>
-				    </div>
-			  	</a>
-				<a href="#" class="col-xs-12 col-sm-6 categoria">
-					<div class="categoria-wrapper">
-					    <img class="img-responsive" src="img/categoria2.jpg">
-					    <h3 class="text-center">Categoria él-ella</h3>
-				    </div>
-			  	</a>
+				
+				<div class="row">
+					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-right categoria">
+						<div class="categoria-wrapper">
+						    <img class="img-responsive" src="img/categoria4.jpg">
+						    <h3 class="text-center">Competencia por equipos</h3>
+					    </div>
+					    <div class='square'></div>
+				  	</a>
+					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-left categoria">
+						<div class="categoria-wrapper">
+						    <img class="img-responsive" src="img/categoria2.jpg">
+						    <h3 class="text-center">Categoría él-ella</h3>
+					    </div>
+					    <div class='square'></div>
+				  	</a>
+		   		</div>
 		    </div>
 
 			<div class='col-xs-12 col-md-6 categorias-top'>

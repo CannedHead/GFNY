@@ -3,6 +3,7 @@
 	<div class="col-xs-12 ruta">
 		<hr class='visible-xs'>
 		<div class='col-xs-12'>
+
     		<!-- Swiper for mobile -->
 		    <div class="swiper-container col-xs-12 visible-xs">
 		        <div class="swiper-wrapper">

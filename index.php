@@ -79,12 +79,29 @@
           <!-- REGISTRATION -->
           <div class="register col-xs-12 col-sm-8">     
             <div class="row">
-              <div class="pauta col-xs-12">
-                <img class="img-responsive" src="http://placehold.it/1095x280/F0EFF0/000000?text=circulos-WEB">
-              </div>   
-              <div class="pauta col-xs-12 visible-xs-block">
-                <img class="img-responsive" src="http://placehold.it/360x65/FFEC00/000000?text=PAUTA-MOBILE">
-              </div>  
+              <!-- COUNTDOWN-->
+              <div id="DateCountdown" data-date="2015-11-22 07:00:00" class="row text-center" data-tc-id="3b7728d7-6d71-ba9f-8bf2-4ddc8bcce85a">      
+                <div class="time_circles">
+                  <canvas width="400" height="100"></canvas>
+                  <div class="textDiv_Days" style="top: 35px; left: 0px; width: 100px;">
+                    <h4 style="font-size: 11px; line-height: 11px;">Days</h4>
+                    <span style="font-size: 21px; line-height: 7px;">51</span>
+                  </div>
+                  <div class="textDiv_Hours" style="top: 35px; left: 100px; width: 100px;">
+                    <h4 style="font-size: 11px; line-height: 11px;">Hours</h4>
+                    <span style="font-size: 21px; line-height: 7px;">13</span>
+                  </div>
+                  <div class="textDiv_Minutes" style="top: 35px; left: 200px; width: 100px;">
+                    <h4 style="font-size: 11px; line-height: 11px;">Minutes</h4>
+                    <span style="font-size: 21px; line-height: 7px;">34</span>
+                  </div>
+                  <div class="textDiv_Seconds" style="top: 35px; left: 300px; width: 100px;">
+                    <h4 style="font-size: 11px; line-height: 11px;">Seconds</h4>
+                    <span style="font-size: 21px; line-height: 7px;">43</span>
+                  </div>
+                </div>
+              </div> 
+              <!-- END COUNTDOWN -->
             </div>    
             <h3 class="text-center">Registration information</h3>
             <div class="table-responsive">

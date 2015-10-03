@@ -8,13 +8,30 @@
 	    <div class="panel-heading" role="tab" id="headingOne">
 	      <h4 class="panel-title">
 	        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo4.jpg">
-	        </a>
+	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo4.jpg">	
+	          <span class="text-center heading-text">GHL 93</span>
+	          <div class="square">
+	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                 <span class="sr-only">Siguiente</span>
+	          </div>         
+	        </a>	        
 	      </h4>
 	    </div>
-	    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+	    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 	      <div class="panel-body">
-	        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+	      	<div class="col-sm-10 col-sm-offset-1 hotel-info">
+	      		<div class="col-sm-6">
+	            Elegancia, Simplicidad y Estilo en el Hotel GHL 93.<br><br>
+				40 elegantes y lujosas habitaciones cada una diseñada y decorada con estilo minimalista, con una paleta de colores neutros y detalles lujosos para los clientes más exigentes, viajeros internacionales, de negocio o turismo.<br><br>
+				El Hotel GHL 93 se encuentra en una de las zonas gastronómicas más conocidas y diversas de Bogotá, cerca los centros de negocios, exclusivas opciones de restaurantes, entretenimiento y turismo en Bogotá.<br><br>
+				El hotel ofrece servicios personalizados para su comodidad y conveniencia. Servicio de conserjería para requerimientos personales y corporativos disponibles las 24 horas del día.<br><br>
+				Tarifas especiales para inscritos al GFNY Colombia:<br>
+				- $180.000 COP por noche (sin impuestos); desayuno incluido.
+				</div>
+				<div class="col-sm-4 col-sm-offset-1">
+					<img class="img-responsive" src="http://placehold.it/350x150">
+				</div>
+	        </div>
 	      </div>
 	    </div>
 	  </div>
@@ -23,12 +40,29 @@
 	      <h4 class="panel-title">
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo3.jpg">
+	          <span class="text-center heading-text">FOUR POINTS BY SHERATON BOGOTÁ</span>
+	          <div class="square">
+	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                 <span class="sr-only">Siguiente</span>
+	          </div> 
 	        </a>
 	      </h4>
 	    </div>
 	    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 	      <div class="panel-body">
-	        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+	        <div class="col-sm-10 col-sm-offset-1 hotel-info">
+	      		<div class="col-sm-6">
+	            Elegancia, Simplicidad y Estilo en el Hotel GHL 93.<br><br>
+				40 elegantes y lujosas habitaciones cada una diseñada y decorada con estilo minimalista, con una paleta de colores neutros y detalles lujosos para los clientes más exigentes, viajeros internacionales, de negocio o turismo.<br><br>
+				El Hotel GHL 93 se encuentra en una de las zonas gastronómicas más conocidas y diversas de Bogotá, cerca los centros de negocios, exclusivas opciones de restaurantes, entretenimiento y turismo en Bogotá.<br><br>
+				El hotel ofrece servicios personalizados para su comodidad y conveniencia. Servicio de conserjería para requerimientos personales y corporativos disponibles las 24 horas del día.<br><br>
+				Tarifas especiales para inscritos al GFNY Colombia:<br>
+				- $180.000 COP por noche (sin impuestos); desayuno incluido.
+				</div>
+				<div class="col-sm-4 col-sm-offset-1">
+					<img class="img-responsive" src="http://placehold.it/350x150">
+				</div>
+	        </div>
 	      </div>
 	    </div>
 	  </div>
@@ -36,13 +70,30 @@
 	    <div class="panel-heading" role="tab" id="headingThree">
 	      <h4 class="panel-title">
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo2.jpg">
+	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo2.jpg">	
+	          <span class="text-center heading-text">HOTEL EL BELVEDERE</span>
+	          <div class="square">
+	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                 <span class="sr-only">Siguiente</span>
+	          </div>           
 	        </a>
 	      </h4>
 	    </div>
 	    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 	      <div class="panel-body">
-	        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+	        <div class="col-sm-10 col-sm-offset-1 hotel-info">
+	      		<div class="col-sm-6">
+	            Elegancia, Simplicidad y Estilo en el Hotel GHL 93.<br><br>
+				40 elegantes y lujosas habitaciones cada una diseñada y decorada con estilo minimalista, con una paleta de colores neutros y detalles lujosos para los clientes más exigentes, viajeros internacionales, de negocio o turismo.<br><br>
+				El Hotel GHL 93 se encuentra en una de las zonas gastronómicas más conocidas y diversas de Bogotá, cerca los centros de negocios, exclusivas opciones de restaurantes, entretenimiento y turismo en Bogotá.<br><br>
+				El hotel ofrece servicios personalizados para su comodidad y conveniencia. Servicio de conserjería para requerimientos personales y corporativos disponibles las 24 horas del día.<br><br>
+				Tarifas especiales para inscritos al GFNY Colombia:<br>
+				- $180.000 COP por noche (sin impuestos); desayuno incluido.
+				</div>
+				<div class="col-sm-4 col-sm-offset-1">
+					<img class="img-responsive" src="http://placehold.it/350x150">
+				</div>
+	        </div>
 	      </div>
 	    </div>
 	  </div>
@@ -51,12 +102,29 @@
 	      <h4 class="panel-title">
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo.jpg">
+	          <span class="text-center heading-text">GHL COMFORT/HOTEL LOS HEROES</span>
+	          <div class="square">
+	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                 <span class="sr-only">Siguiente</span>
+	          </div> 
 	        </a>
 	      </h4>
 	    </div>
 	    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
 	      <div class="panel-body">
-	        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+	        <div class="col-sm-10 col-sm-offset-1 hotel-info">
+	      		<div class="col-sm-6">
+	            Elegancia, Simplicidad y Estilo en el Hotel GHL 93.<br><br>
+				40 elegantes y lujosas habitaciones cada una diseñada y decorada con estilo minimalista, con una paleta de colores neutros y detalles lujosos para los clientes más exigentes, viajeros internacionales, de negocio o turismo.<br><br>
+				El Hotel GHL 93 se encuentra en una de las zonas gastronómicas más conocidas y diversas de Bogotá, cerca los centros de negocios, exclusivas opciones de restaurantes, entretenimiento y turismo en Bogotá.<br><br>
+				El hotel ofrece servicios personalizados para su comodidad y conveniencia. Servicio de conserjería para requerimientos personales y corporativos disponibles las 24 horas del día.<br><br>
+				Tarifas especiales para inscritos al GFNY Colombia:<br>
+				- $180.000 COP por noche (sin impuestos); desayuno incluido.
+				</div>
+				<div class="col-sm-4 col-sm-offset-1">
+					<img class="img-responsive" src="http://placehold.it/350x150">
+				</div>
+	        </div>
 	      </div>
 	    </div>
 	  </div>

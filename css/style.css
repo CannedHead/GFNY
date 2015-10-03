@@ -235,31 +235,25 @@ a:hover{
 	height:auto;
 }
 
-.sub{
+.navbar-gnfy ul.sub{
 	position:absolute;
-	top:92px;
+	top:52px;
 	z-index: 5;
-}
-
-.subnavbar-gnfy{
-	width:100%;
+	width:812% !important;
+	left:-103%;
+	padding: 0;
+	height: 52px;
 	background-color: #4CAC14;
-	height:52px;
 	text-align: center;
-	margin-bottom: 10px;
 }
 
-.subnavbar-gnfy ul{
-	width:100%;
-}
-
-.subnavbar-gnfy ul > li {
+.navbar-gnfy ul.sub > li {
 	width: 12.5%;
 	border:1px solid #8E8E8E;
 	padding: 0px;
 }
 
-.subnavbar-gnfy ul > li > a{
+.navbar-gnfy ul.sub > li > a{
 	font-family: 'bebas_neueregular';
 	padding: 15px 0px;
 	font-size:1.7em;
@@ -443,10 +437,74 @@ a:hover{
 	color:#FFF;
 }
 
+.hotel h1{
+	font-size: 2.4em;
+	font-weight: 900;
+}
+
+.hotel p{
+	font-size: 1.7em;
+}
+
+.hotel .panel{
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.hotel .panel .panel-title {
+	position: relative;
+}
+
+.hotel .panel .panel-title span{
+	position: absolute;
+	z-index: 2;
+	text-align: center;
+	color:#FFF;
+	width: 100%;	
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.hotel .panel .panel-title span.heading-text{
+	top:36%;
+}
+
+.hotel .panel .panel-title span.glyphicon{
+	top:7px;
+	font-size: 35px;
+	-webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.hotel .panel .panel-body{
+	padding: 0 15px;
+	border-top-color: transparent !important;
+}
+
 .hotel .panel-heading{
 	padding: 0;
 	border-radius: 0;
 }
+
+.hotel-info{
+	background-color: #B0B0B0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.hotel .square{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	background: #64CC0A;
+	z-index: 1;
+	right: 0px;
+	bottom: 0;
+}
+
 
 /*
                      | | |          | |      

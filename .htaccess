@@ -1,6 +1,6 @@
 
 RewriteEngine On 
-
+RewriteBase /gnfy/
 RewriteRule ^carrera/ruta$ ruta.php [NC,L]
 RewriteRule ^carrera/rey$ rey-reina.php [NC,L]
 RewriteRule ^carrera/reglas$ reglas.php [NC,L]

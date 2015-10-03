@@ -56,9 +56,42 @@
                     <img src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO+GFNY.svg">
                   </a>
                 </li>
-                <li><a id="carrera" href="#">CARRERA</a>
+                <li>
+                  <a id="carrera" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CARRERA</a>
+                  <ul class="dropdown-menu list-inline sub">
+                    <li>
+                      <a id="carrera" href="/carrera/ruta">RUTA</a>
+                    </li>
+                    <li class="rey-reina-link">
+                      <a class="rey-reina-links" href="/carrera/ruta">REY Y REINA <br>DE LA MONTAÑA</a>
+                    </li>
+                    <li>
+                      <a href="/carrera/reglas">REGLAS</a>
+                    </li>
+                    <li>
+                      <a href="/carrera/categorias">CATEGORIAS</a>
+                    </li>
+                    <li>
+                      <a href="/carrera/resultados">RESULTADOS</a>
+                    </li>
+                    <li>
+                      <a href="/carrera/entrenamiento">ENTRENAMIENTO</a>
+                    </li>
+                  </ul>
                 </li>
-                <li><a id="viaje" href="#">VIAJE</a>
+                <li>
+                  <a id="viaje" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">VIAJE</a>
+                  <ul class="dropdown-menu list-inline sub">
+                    <li>
+                      <a href="/viaje/hoteles">HOTELES</a>
+                    </li>
+                    <li>
+                      <a href="#">CIUDAD</a>
+                    </li>
+                    <li>
+                      <a href="#">GUÍA TURÍSTICA</a>
+                    </li>
+                  </ul>
                 </li>
                 <li><a href="#">SHOP</a>
                 </li>
@@ -75,47 +108,6 @@
         </div>
         <!-- END MENU -->
 
-         <!-- SUBMENU -->
-        <div id="carrera-menu" class="col-xs-12 sub hide">
-          <nav class="subnavbar-gnfy">
-            <ul class="nav navbar-nav">
-                <li class="active">
-                  <a id="carrera" href="/carrera/ruta">RUTA</a>
-                </li>
-                <li class="rey-reina-link">
-                  <a class="rey-reina-links" href="/carrera/ruta">REY Y REINA <br>DE LA MONTAÑA</a>
-                </li>
-                <li>
-                  <a href="/carrera/reglas">REGLAS</a>
-                </li>
-                <li>
-                  <a href="/carrera/categorias">CATEGORIAS</a>
-                </li>
-                <li>
-                  <a href="/carrera/resultados">RESULTADOS</a>
-                </li>
-                <li>
-                  <a href="/carrera/entrenamiento">ENTRENAMIENTO</a>
-                </li>
-            </ul>
-          </nav>
-        </div>
-        <!-- END SUBMENU -->
+        
 
-        <!-- SUBMENU -->
-        <div id="viaje-menu" class="col-xs-12 sub hide">
-          <nav class="subnavbar-gnfy">
-            <ul class="nav navbar-nav">
-                <li>
-                  <a href="/viaje/hoteles">HOTELES</a>
-                </li>
-                <li>
-                  <a href="#">CIUDAD</a>
-                </li>
-                <li>
-                  <a href="#">GUÍA TURÍSTICA</a>
-                </li>
-            </ul>
-          </nav>
-        </div>
-        <!-- END SUBMENU -->
+       

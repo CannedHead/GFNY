@@ -94,6 +94,9 @@
                 <li>
                   <a href="/carrera/resultados">RESULTADOS</a>
                 </li>
+                <li>
+                  <a href="/carrera/entrenamiento">ENTRENAMIENTO</a>
+                </li>
             </ul>
           </nav>
         </div>

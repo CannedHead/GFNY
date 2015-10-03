@@ -438,12 +438,12 @@ a:hover{
 }
 
 .hotel h1{
-	font-size: 2.4em;
+	font-size: 1.5em;
 	font-weight: 900;
 }
 
 .hotel p{
-	font-size: 1.7em;
+	font-size: 1.2em;
 }
 
 .hotel .panel{
@@ -462,7 +462,7 @@ a:hover{
 	color:#FFF;
 	width: 100%;	
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 15px;
 }
 
 .hotel .panel .panel-title span.heading-text{
@@ -470,8 +470,8 @@ a:hover{
 }
 
 .hotel .panel .panel-title span.glyphicon{
-	top:7px;
-	font-size: 35px;
+	top: -2px;
+    font-size: 22px;
 	-webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
@@ -497,8 +497,8 @@ a:hover{
 
 .hotel .square{
 	position: absolute;
-	width: 50px;
-	height: 50px;
+	width: 35px;
+    height: 20px;
 	background: #64CC0A;
 	z-index: 1;
 	right: 0px;
@@ -1047,6 +1047,28 @@ a:hover{
 	  line-height: 42px;	  
 	}	
 
+	.hotel h1{
+		font-size: 2.4em;
+		font-weight: 900;
+	}
+
+	.hotel p{
+		font-size: 1.7em;
+	}
+
+	.hotel .panel .panel-title span{
+		font-size: 40px;
+	}
+
+	.hotel .square {
+    	width: 50px;
+    	height: 50px;
+	}
+	
+	.hotel .panel .panel-title span.glyphicon {
+	    top:7px;
+		font-size: 35px;
+	}
 }
 
 /* Medium devices (desktops, 992px and up) */

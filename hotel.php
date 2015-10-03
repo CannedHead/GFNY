@@ -30,7 +30,7 @@
 				- $180.000 COP por noche (sin impuestos); desayuno incluido.
 				</div>
 				<div class="col-sm-4 col-sm-offset-1">
-					<img class="img-responsive" src="http://placehold.it/350x150">
+					<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/logo-GHLSTYLE-93-ALTA.jpg">
 				</div>
 	        </div>
 	      </div>

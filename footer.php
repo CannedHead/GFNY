@@ -2,7 +2,17 @@
    <script src="js/bootstrap.min.js"></script> 
    <script type="text/javascript" src="js/TimeCircles.js"></script>
    <script type="text/javascript">
-   		$('a').click( function() { your_code_here; return false; } );
+   		$(document).ready(function () {
+		    $('#carrera').click(function () {
+		        $('#carrera-menu').addClass('in').removeClass('hide');
+		        $('#viaje-menu').addClass('hide').removeClass('in');
+		    });
+
+		    $('#viaje').click(function () {
+		        $('#viaje-menu').addClass('in').removeClass('hide');
+		        $('#carrera-menu').addClass('hide').removeClass('in');
+		    });
+		});
    </script>
    </body>
 </html>

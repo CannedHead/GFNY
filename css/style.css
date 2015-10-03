@@ -235,9 +235,15 @@ a:hover{
 	height:auto;
 }
 
+.sub{
+	position:absolute;
+	top:92px;
+	z-index: 5;
+}
+
 .subnavbar-gnfy{
 	width:100%;
-	background-color: #A9A9A9;
+	background-color: #4CAC14;
 	height:52px;
 	text-align: center;
 	margin-bottom: 10px;
@@ -263,6 +269,10 @@ a:hover{
 
 .rey-reina-link{
 	font-size: 10px;
+}
+
+.rey-reina-links {
+	padding: 5px 0px !important;
 }
 
 .pageheader{

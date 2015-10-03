@@ -76,17 +76,41 @@
         <!-- END MENU -->
 
          <!-- SUBMENU -->
-        <div class="col-xs-12 hidden">
+        <div id="carrera-menu" class="col-xs-12 sub hide">
           <nav class="subnavbar-gnfy">
             <ul class="nav navbar-nav">
-                <li class="active"><a id="carrera" href="#">RUTA</a>
+                <li class="active">
+                  <a id="carrera" href="/carrera/ruta">RUTA</a>
                 </li>
-                <li><a class="rey-reina-link" href="#">REY Y REINA DE LA MONTAÑA</a>
+                <li class="rey-reina-link">
+                  <a class="rey-reina-links" href="/carrera/ruta">REY Y REINA <br>DE LA MONTAÑA</a>
                 </li>
-                <li><a href="#">REGLAS</a>
+                <li>
+                  <a href="/carrera/reglas">REGLAS</a>
                 </li>
-                <li><a href="#">CATEGORIAS
-                <li><a href="/contacto">RESULTADOS
+                <li>
+                  <a href="/carrera/categorias">CATEGORIAS</a>
+                </li>
+                <li>
+                  <a href="/carrera/resultados">RESULTADOS</a>
+                </li>
+            </ul>
+          </nav>
+        </div>
+        <!-- END SUBMENU -->
+
+        <!-- SUBMENU -->
+        <div id="viaje-menu" class="col-xs-12 sub hide">
+          <nav class="subnavbar-gnfy">
+            <ul class="nav navbar-nav">
+                <li>
+                  <a href="/viaje/hoteles">HOTELES</a>
+                </li>
+                <li>
+                  <a href="#">CIUDAD</a>
+                </li>
+                <li>
+                  <a href="#">GUÍA TURÍSTICA</a>
                 </li>
             </ul>
           </nav>

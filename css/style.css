@@ -240,10 +240,14 @@ a:hover{
 	top:52px;
 	z-index: 5;
 	width:812% !important;
-	left:-103%;
+	left:-52%;
 	padding: 0;
 	height: 0px;
 	text-align: center;
+}
+
+.left-inline{
+	margin-left: -3px !important;
 }
 
 .navbar-gnfy ul.sub > li {
@@ -268,8 +272,8 @@ a:hover{
 .rey-reina-links {
 	padding: 0px !important;
 	line-height: 15px !important;
-	margin-top: 12px !important;
-	margin-bottom: 23px !important;
+	margin-top: 11.5px !important;
+	margin-bottom: 22px !important;
 }
 
 .pageheader{

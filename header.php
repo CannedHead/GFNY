@@ -62,20 +62,23 @@
                     <li>
                       <a id="carrera" href="/carrera/ruta">RUTA</a>
                     </li>
-                    <li class="rey-reina-link">
+                    <li class="rey-reina-link left-inline">
                       <a class="rey-reina-links" href="/carrera/ruta">REY Y REINA <br>DE LA MONTAÑA</a>
                     </li>
-                    <li>
+                    <li class='left-inline' >
                       <a href="/carrera/reglas">REGLAS</a>
                     </li>
-                    <li>
+                    <li class='left-inline' >
                       <a href="/carrera/categorias">CATEGORIAS</a>
                     </li>
-                    <li>
+                    <li class='left-inline' >
                       <a href="/carrera/resultados">RESULTADOS</a>
                     </li>
-                    <li>
+                    <li class='left-inline' >
                       <a href="/carrera/entrenamiento">ENTRENAMIENTO</a>
+                    </li>
+                    <li class='left-inline' >
+                      <a style='visibility:hidden' href="/carrera/entrenamiento">ENTRENAMIENTO</a>
                     </li>
 
                   </ul>

@@ -399,6 +399,15 @@ a:hover{
     font-weight: bold;
 }
 
+.hotel h1, .hotel p{
+	color:#FFF;
+}
+
+.hotel .panel-heading{
+	padding: 0;
+	border-radius: 0;
+}
+
 /*
                      | | |          | |      
   _ __ ___  ___ _   _| | |_ __ _  __| | ___  

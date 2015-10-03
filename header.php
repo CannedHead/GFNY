@@ -52,7 +52,7 @@
           <nav class="navbar-gnfy">
             <ul class="nav navbar-nav">
                 <li class="active">
-                  <a href="#" class="brand">
+                  <a href="/" class="brand">
                     <img src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO+GFNY.svg">
                   </a>
                 </li>
@@ -68,7 +68,7 @@
                 </li>
                 <li><a href="#">GFNY WORLD</a>
                 </li>
-                <li><a href="#">CONTACTO</a>
+                <li><a href="/contacto">CONTACTO</a>
                 </li>
             </ul>
           </nav>

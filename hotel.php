@@ -8,7 +8,7 @@
 	    <div class="panel-heading" role="tab" id="headingOne">
 	      <h4 class="panel-title">
 	        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-	          <img class="img-responsive" src="img/Hotel-abajo4.jpg">
+	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo4.jpg">
 	        </a>
 	      </h4>
 	    </div>
@@ -22,7 +22,7 @@
 	    <div class="panel-heading" role="tab" id="headingTwo">
 	      <h4 class="panel-title">
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-	          <img class="img-responsive" src="img/Hotel-abajo3.jpg">
+	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo3.jpg">
 	        </a>
 	      </h4>
 	    </div>
@@ -36,7 +36,7 @@
 	    <div class="panel-heading" role="tab" id="headingThree">
 	      <h4 class="panel-title">
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-	          <img class="img-responsive" src="img/Hotel-abajo2.jpg">
+	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo2.jpg">
 	        </a>
 	      </h4>
 	    </div>
@@ -50,7 +50,7 @@
 	    <div class="panel-heading" role="tab" id="headingFour">
 	      <h4 class="panel-title">
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-	          <img class="img-responsive" src="img/Hotel-abajo.jpg">
+	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo.jpg">
 	        </a>
 	      </h4>
 	    </div>

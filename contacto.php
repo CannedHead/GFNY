@@ -1,6 +1,6 @@
 <?php include 'header.php';?>  
 <div class="col-xs-12 no-padding contacto">
-	<img class="img-responsive" src="img/contacto.jpg">
+	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/contacto.jpg">
 	<div class="hidden-xs col-sm-2 col-sm-offset-5 logo-contact">
 		<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO+GFNY.svg">
 	</div>		

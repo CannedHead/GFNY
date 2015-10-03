@@ -235,6 +235,36 @@ a:hover{
 	height:auto;
 }
 
+.subnavbar-gnfy{
+	width:100%;
+	background-color: #A9A9A9;
+	height:52px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.subnavbar-gnfy ul{
+	width:100%;
+}
+
+.subnavbar-gnfy ul > li {
+	width: 12.5%;
+	border:1px solid #8E8E8E;
+	padding: 0px;
+}
+
+.subnavbar-gnfy ul > li > a{
+	font-family: 'bebas_neueregular';
+	padding: 15px 0px;
+	font-size:1.7em;
+	color:#000;
+}
+
+
+.rey-reina-link{
+	font-size: 10px;
+}
+
 .pageheader{
 	position:relative;
 	overflow-y: hidden;

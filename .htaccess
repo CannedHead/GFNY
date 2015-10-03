@@ -1,4 +1,10 @@
 
 RewriteEngine On 
 
+RewriteRule ^carrera/ruta$ ruta.php [NC,L]
+RewriteRule ^carrera/rey$ rey-reina.php [NC,L]
+RewriteRule ^carrera/reglas$ reglas.php [NC,L]
+RewriteRule ^carrera/categorias$ categorias.php [NC,L]
+RewriteRule ^carrera/resultados$ resultados.php [NC,L]
+RewriteRule ^carrera/entrenamiento$ entrenamiento.php [NC,L]
 RewriteRule ^contacto$ contacto.php [NC,L]

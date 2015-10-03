@@ -19,10 +19,10 @@
           <div class="pull-right">
             <a class="active" href="#">ESPAÑOL</a>/<a href="#">ENGLISH</a>    
             <div class="social-media">         
-              <a href="#">
+              <a href="https://www.facebook.com/gfnycolombia?fref=ts" target="_blank">
                 <i class="fa fa-facebook"></i>
               </a>
-              <a href="#">
+              <a href="https://twitter.com/GFNYCOL?lang=es" target="_blank">
                 <i class="fa fa-twitter"></i>
               </a>
             </div> 
@@ -56,9 +56,9 @@
                     <img src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO+GFNY.svg">
                   </a>
                 </li>
-                <li><a href="#">CARRERA</a>
+                <li><a id="carrera" href="#">CARRERA</a>
                 </li>
-                <li><a href="#">VIAJE</a>
+                <li><a id="viaje" href="#">VIAJE</a>
                 </li>
                 <li><a href="#">SHOP</a>
                 </li>
@@ -66,7 +66,7 @@
                 </li>
                 <li><a href="#">VIP</a>
                 </li>
-                <li><a href="#">GFNY WORLD</a>
+                <li><a href="http://www.gfny.com" target="_blank">GFNY WORLD</a>
                 </li>
                 <li><a href="/contacto">CONTACTO</a>
                 </li>
@@ -74,3 +74,21 @@
           </nav>
         </div>
         <!-- END MENU -->
+
+         <!-- SUBMENU -->
+        <div class="col-xs-12 hidden">
+          <nav class="subnavbar-gnfy">
+            <ul class="nav navbar-nav">
+                <li class="active"><a id="carrera" href="#">RUTA</a>
+                </li>
+                <li><a class="rey-reina-link" href="#">REY Y REINA DE LA MONTAÑA</a>
+                </li>
+                <li><a href="#">REGLAS</a>
+                </li>
+                <li><a href="#">CATEGORIAS
+                <li><a href="/contacto">RESULTADOS
+                </li>
+            </ul>
+          </nav>
+        </div>
+        <!-- END SUBMENU -->

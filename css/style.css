@@ -242,8 +242,7 @@ a:hover{
 	width:812% !important;
 	left:-103%;
 	padding: 0;
-	height: 52px;
-	background-color: #4CAC14;
+	height: 0px;
 	text-align: center;
 }
 
@@ -251,6 +250,7 @@ a:hover{
 	width: 12.5%;
 	border:1px solid #8E8E8E;
 	padding: 0px;
+	background-color: #55F100 !important;
 }
 
 .navbar-gnfy ul.sub > li > a{
@@ -266,7 +266,10 @@ a:hover{
 }
 
 .rey-reina-links {
-	padding: 5px 0px !important;
+	padding: 0px !important;
+	line-height: 15px !important;
+	margin-top: 12px !important;
+	margin-bottom: 23px !important;
 }
 
 .pageheader{

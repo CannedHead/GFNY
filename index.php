@@ -84,19 +84,19 @@
                 <div class="time_circles">
                   <canvas width="400" height="100"></canvas>
                   <div class="textDiv_Days" style="top: 35px; left: 0px; width: 100px;">
-                    <h4 style="font-size: 11px; line-height: 11px;">Days</h4>
+                    <h4 style="font-size: 11px; line-height: 11px;">Dias</h4>
                     <span style="font-size: 21px; line-height: 7px;">51</span>
                   </div>
                   <div class="textDiv_Hours" style="top: 35px; left: 100px; width: 100px;">
-                    <h4 style="font-size: 11px; line-height: 11px;">Hours</h4>
+                    <h4 style="font-size: 11px; line-height: 11px;">Horas</h4>
                     <span style="font-size: 21px; line-height: 7px;">13</span>
                   </div>
                   <div class="textDiv_Minutes" style="top: 35px; left: 200px; width: 100px;">
-                    <h4 style="font-size: 11px; line-height: 11px;">Minutes</h4>
+                    <h4 style="font-size: 11px; line-height: 11px;">Minutos</h4>
                     <span style="font-size: 21px; line-height: 7px;">34</span>
                   </div>
                   <div class="textDiv_Seconds" style="top: 35px; left: 300px; width: 100px;">
-                    <h4 style="font-size: 11px; line-height: 11px;">Seconds</h4>
+                    <h4 style="font-size: 11px; line-height: 11px;">Segundos</h4>
                     <span style="font-size: 21px; line-height: 7px;">43</span>
                   </div>
                 </div>

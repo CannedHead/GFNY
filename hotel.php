@@ -8,7 +8,8 @@
 	    <div class="panel-heading" role="tab" id="headingOne">
 	      <h4 class="panel-title">
 	        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo4.jpg">	
+	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo4.jpg">	
+              <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-mobile-4.jpg">
 	          <span class="text-center heading-text">GHL 93</span>
 	          <div class="square">
 	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
@@ -39,7 +40,8 @@
 	    <div class="panel-heading" role="tab" id="headingTwo">
 	      <h4 class="panel-title">
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo3.jpg">
+	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo3.jpg">	
+              <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-mobile-3.jpg">
 	          <span class="text-center heading-text">FOUR POINTS BY SHERATON BOGOTÁ</span>
 	          <div class="square">
 	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
@@ -70,7 +72,8 @@
 	    <div class="panel-heading" role="tab" id="headingThree">
 	      <h4 class="panel-title">
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo2.jpg">	
+	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo2.jpg">	
+              <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-mobile-2.jpg">	
 	          <span class="text-center heading-text">HOTEL EL BELVEDERE</span>
 	          <div class="square">
 	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
@@ -101,7 +104,8 @@
 	    <div class="panel-heading" role="tab" id="headingFour">
 	      <h4 class="panel-title">
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-	          <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo.jpg">
+	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo.jpg">	
+              <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-mobile-1.jpg">
 	          <span class="text-center heading-text">GHL COMFORT/HOTEL LOS HEROES</span>
 	          <div class="square">
 	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>

@@ -100,6 +100,18 @@ a:hover{
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(158, 255, 0, 0.4);
 }
 
+.btn-gfny-two{
+	background-color: #999999;
+	color:#fff;
+}
+
+.btn-gfny-two:active,
+.btn-gfny-two:focus,
+.btn-gfny-two:hover{
+	color: #fff;
+	background-color:#888;
+}
+
 .btn-gfny{
 	background-color: #000;
 	color:#9EFF00;
@@ -600,13 +612,13 @@ a:hover{
 }
 
 .entrenamiento h1{
-	font-size: 2em;
+	font-size: 1.8em;
 	color:#FFF;
 	font-weight: 900;
 }
 
 .entrenamiento p{
-	font-size: 1.7em;
+	font-size: 1em;
 	color:#FFF;
 	font-weight: 550;
 	text-align: justify;
@@ -644,14 +656,14 @@ a:hover{
 .photo a:after {
   content: '\2771';
   position: absolute;
-  top: 0%;
-  right: 4.5%;
+  top: -4px;
+  right: 16px;
+  font-size: 40px;
   width: 55px;
   height: 55px;
   opacity: 0.5;
   transition: opacity .5s ease, transform .3s ease;
-  font-family: 'entypo', sans-serif;
-  font-size: 45pt;
+  font-family: 'entypo', sans-serif;  
   color: #FFF;
   line-height: 75px;
   text-align: right;
@@ -667,8 +679,8 @@ a:hover{
 
 .photo .square{
 	position: absolute;
-	width: 100px;
-	height: 100px;
+	width: 70px;
+	height: 70px;
 	background: #5EFD00;
 	opacity: .5;
 	z-index: 1;
@@ -677,7 +689,7 @@ a:hover{
 
 .photo h2{
 	position: absolute;
-	font-size: 60px;
+	font-size: 30px;
 	color: #fff;
 	text-align: center;
 	font-weight: bold;
@@ -686,9 +698,39 @@ a:hover{
 }
 
 .photo h2 span{
-	font-size: 120px;
+	font-size: 60px;
 }
 
+@media (min-width: 768px) { 
+
+	.entrenamiento h1{
+		font-size: 2em;
+	}
+
+	.entrenamiento p{
+		font-size: 1.7em;
+	}
+
+	.photo h2{
+		font-size: 60px;
+	}
+
+	.photo h2 span{
+		font-size: 120px;
+	}
+
+	.photo .square{
+		width: 100px;
+		height: 100px;
+	}
+
+	.photo a:after {	 
+	  top: 7px;
+	  right: 25px;
+	  font-size: 55px;
+	}
+
+}
 @media (min-width: 982px) { 
 	.photo{
 	  height: 45vw;

@@ -121,13 +121,6 @@
 			</div>
 		</div>
 	</div>
-
-    <!-- Swiper JS -->
-    <script src="js/swiper.min.js"></script>
-
-    <!-- Initialize Swiper -->
-    <script>
-    var swiper = new Swiper('.swiper-container');
-    </script>
+   
 
 <?php include 'footer.php';?>    

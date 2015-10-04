@@ -10,7 +10,7 @@
 	        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo4.jpg">	
               <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-mobile-4.jpg">
-	          <span class="text-center heading-text">GHL 93</span>
+	          <span class="text-center heading-text">GHL 93 <img style="width:4%; height:auto" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/logo-GHLSTYLE-93-ALTA.png"></span>
 	          <div class="square">
 	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                  <span class="sr-only">Siguiente</span>
@@ -30,7 +30,7 @@
 				- $180.000 COP por noche (sin impuestos); desayuno incluido.
 				</div>
 				<div class="col-sm-4 col-sm-offset-1">
-					<img class="img-responsive" src="http://placehold.it/350x150">
+					<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/logo-GHLSTYLE-93-ALTA.png">
 				</div>
 	        </div>
 	      </div>
@@ -42,7 +42,7 @@
 	        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 	          <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-abajo3.jpg">	
               <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Hotel-mobile-3.jpg">
-	          <span class="text-center heading-text">FOUR POINTS BY SHERATON BOGOTÁ</span>
+	          <span class="text-center heading-text">FOUR POINTS BY SHERATON BOGOTÁ<img style="width:4%; height:auto; background-color:#FFF; margin-left:10px; padding:5px" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/logo-FPSBOG-positivo-4.png"></span>
 	          <div class="square">
 	          	 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                  <span class="sr-only">Siguiente</span>
@@ -61,8 +61,8 @@
 				Tarifas especiales para inscritos al GFNY Colombia:<br>
 				- $180.000 COP por noche (sin impuestos); desayuno incluido.
 				</div>
-				<div class="col-sm-4 col-sm-offset-1">
-					<img class="img-responsive" src="http://placehold.it/350x150">
+				<div class="col-sm-3 col-sm-offset-1">
+					<img style="background-color:#FFF; padding:20px;" class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/logo-FPSBOG-positivo-4.png">
 				</div>
 	        </div>
 	      </div>

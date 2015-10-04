@@ -63,7 +63,7 @@
                       <a id="carrera" href="/carrera/ruta">RUTA</a>
                     </li>
                     <li class="rey-reina-link left-inline">
-                      <a class="rey-reina-links" href="/carrera/ruta">REY Y REINA <br>DE LA MONTAÑA</a>
+                      <a class="rey-reina-links" href="/carrera/rey">REY Y REINA <br>DE LA MONTAÑA</a>
                     </li>
                     <li class='left-inline' >
                       <a href="/carrera/reglas">REGLAS</a>

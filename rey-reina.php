@@ -12,7 +12,7 @@
 				</p>
 			</div>
 			<div class ='col-xs-12'>
-				<img class="img-responsive" src="http://lorempixel.com/640/360/sports/">
+				<img style="margin-bottom:60px;" class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Rey-y-Reina.jpg">
 			</div>
 		</div>
 	</div>

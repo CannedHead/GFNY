@@ -8,14 +8,14 @@
 		    <div class="swiper-container col-xs-12 visible-xs">
 		        <div class="swiper-wrapper">
 		            <div class="swiper-slide">
-						<img class="img-responsive" src="http://lorempixel.com/429/623/sports/">
+						<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Ruta-1.jpg">
 		                <div class="title-xs" >
 		                    <h1>RECORRIDO</h1>
 		                    <p>En Colombia casi todos montan en bicicleta, sean jardineros o presidentes. Esta es la tierra de algunos de los mejores escaladores del mundo, y Bogotá y su sabana, el patio de recreo donde varios campeones han formado sus piernas y forjado su tenaz carácter.</p>
 		                </div>
 		            </div>
 		            <div class="swiper-slide">
-		            	<img class="img-responsive" src="http://lorempixel.com/429/623/sports/">
+		            	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Ruta-2.jpg">
 		                <div class="title-xs" >
 		                    <h2> RUTA DEL <h2>
 		                    <h1>GRAN FONDO</h1>
@@ -25,7 +25,7 @@
 		                </div>
 		            </div>
 		            <div class="swiper-slide">
-		            	<img class="img-responsive" src="http://lorempixel.com/429/623/sports/">
+		            	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Ruta-3.jpg">
 		                <div class="title-xs">
 		                    <h2> RUTA DEL <h2>
 		                    <h1>MEDIO FONDO</h1>
@@ -40,14 +40,14 @@
     		<!-- Div for web -->
 		    <div class="col-md-12 hidden-xs" style='margin-top: 1.2%'>
 	            <div class="col-md-4 col-sm-12 no-padding">
-					<img class="img-responsive" src="http://lorempixel.com/429/623/sports/">
+					<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Ruta-1.jpg">
 	                <div class="title-md">
 	                    <h1>RECORRIDO</h1>
 	                    <p>En Colombia casi todos montan en bicicleta, sean jardineros o presidentes. Esta es la tierra de algunos de los mejores escaladores del mundo, y Bogotá y su sabana, el patio de recreo donde varios campeones han formado sus piernas y forjado su tenaz carácter.</p>
 	                </div>
 		    	</div>
 	            <div class="col-md-4 col-sm-6 no-padding margin-title">
-	            	<img class="img-responsive" src="http://lorempixel.com/429/623/sports/">
+	            	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Ruta-2.jpg">
 	                <div class="title-md">
 	                    <h2> RUTA DEL <h2>
 	                    <h1>GRAN FONDO</h1>
@@ -57,7 +57,7 @@
 	                </div>
 	            </div>
 	            <div class="col-md-4 col-sm-6 no-padding">
-	            	<img class="img-responsive" src="http://lorempixel.com/429/623/sports/">
+	            	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Ruta-3.jpg">
 	                <div class="title-md">
 	                    <h2> RUTA DEL <h2>
 	                    <h1>MEDIO FONDO</h1>
@@ -77,7 +77,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-8 ruta-top'>
-				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/ruta.png">
+				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Recorrido.jpg">
 			</div>
 		</div>
 	</div>
@@ -97,7 +97,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-8'>
-				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/ruta.png">
+				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/gran-fondo.jpg">
 			</div>
 		</div>
 	</div>
@@ -117,7 +117,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-8'>
-				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/ruta.png">
+				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Medio-Fondo.jpg">
 			</div>
 		</div>
 	</div>

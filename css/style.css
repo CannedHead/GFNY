@@ -100,6 +100,18 @@ a:hover{
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(158, 255, 0, 0.4);
 }
 
+.btn-gfny-two{
+	background-color: #999999;
+	color:#fff;
+}
+
+.btn-gfny-two:active,
+.btn-gfny-two:focus,
+.btn-gfny-two:hover{
+	color: #fff;
+	background-color:#888;
+}
+
 .btn-gfny{
 	background-color: #000;
 	color:#9EFF00;
@@ -445,12 +457,12 @@ a:hover{
 }
 
 .hotel h1{
-	font-size: 2.4em;
+	font-size: 1.5em;
 	font-weight: 900;
 }
 
 .hotel p{
-	font-size: 1.7em;
+	font-size: 1.2em;
 }
 
 .hotel .panel{
@@ -469,7 +481,7 @@ a:hover{
 	color:#FFF;
 	width: 100%;	
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 15px;
 }
 
 .hotel .panel .panel-title span.heading-text{
@@ -477,8 +489,8 @@ a:hover{
 }
 
 .hotel .panel .panel-title span.glyphicon{
-	top:7px;
-	font-size: 35px;
+	top: -2px;
+    font-size: 22px;
 	-webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
@@ -504,8 +516,8 @@ a:hover{
 
 .hotel .square{
 	position: absolute;
-	width: 50px;
-	height: 50px;
+	width: 35px;
+    height: 20px;
 	background: #64CC0A;
 	z-index: 1;
 	right: 0px;
@@ -600,13 +612,13 @@ a:hover{
 }
 
 .entrenamiento h1{
-	font-size: 2em;
+	font-size: 1.8em;
 	color:#FFF;
 	font-weight: 900;
 }
 
 .entrenamiento p{
-	font-size: 1.7em;
+	font-size: 1em;
 	color:#FFF;
 	font-weight: 550;
 	text-align: justify;
@@ -628,6 +640,7 @@ a:hover{
   background-position: center;
   background-size: 100% auto;
   background-repeat: no-repeat;
+  margin-bottom: 60px;
 }
 .photo a:before {
   content: '';
@@ -637,26 +650,32 @@ a:hover{
   right: 0;
   bottom: 0;
   background: #333333;
-  opacity: 0;
+  opacity: 0.3;
   transition: opacity .5s ease;
 }
 .photo a:after {
   content: '\2771';
   position: absolute;
-  top: 0%;
-  right: 4.5%;
+  top: -4px;
+  right: 16px;
+  font-size: 40px;
   width: 55px;
   height: 55px;
   opacity: 0.5;
   transition: opacity .5s ease, transform .3s ease;
-  font-family: 'entypo', sans-serif;
-  font-size: 45pt;
+  font-family: 'entypo', sans-serif;  
   color: #FFF;
   line-height: 75px;
   text-align: right;
   font-smoothing: antialiased;
   z-index:2;
 }
+
+.photo a.bottom:after{
+	bottom: 35px;
+	top: auto;
+}
+
 .photo a:hover:before {
   opacity: .5;
 }
@@ -666,22 +685,69 @@ a:hover{
 
 .photo .square{
 	position: absolute;
-	width: 25%;
-	height: 20%;
+	width: 70px;
+	height: 70px;
 	background: #5EFD00;
 	opacity: .5;
-	top:0;
 	z-index: 1;
 	right:0;
 }
 
+.photo .square.bottom{
+	bottom: 60px;
+}
+
+.photo h2{
+	position: absolute;
+	font-size: 30px;
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	width: 100%;
+	bottom: 90px;
+}
+
+.photo h2 span{
+	font-size: 60px;
+}
+
+@media (min-width: 768px) { 
+
+	.entrenamiento h1{
+		font-size: 2em;
+	}
+
+	.entrenamiento p{
+		font-size: 1.7em;
+	}
+
+	.photo h2{
+		font-size: 60px;
+	}
+
+	.photo h2 span{
+		font-size: 120px;
+	}
+
+	.photo .square{
+		width: 100px;
+		height: 100px;
+	}
+
+	.photo a:after {	 
+	  top: 7px;
+	  right: 25px;
+	  font-size: 55px;
+	}
+
+}
 @media (min-width: 982px) { 
 	.photo{
 	  height: 45vw;
 	}
 	.photo a:after{
-		top: 2%;
-  		right: 7.5%;
+		top: 10px;
+		right: 23px;
 	}
 }
 
@@ -1054,6 +1120,28 @@ a:hover{
 	  line-height: 42px;	  
 	}	
 
+	.hotel h1{
+		font-size: 2.4em;
+		font-weight: 900;
+	}
+
+	.hotel p{
+		font-size: 1.7em;
+	}
+
+	.hotel .panel .panel-title span{
+		font-size: 40px;
+	}
+
+	.hotel .square {
+    	width: 50px;
+    	height: 50px;
+	}
+	
+	.hotel .panel .panel-title span.glyphicon {
+	    top:7px;
+		font-size: 35px;
+	}
 }
 
 /* Medium devices (desktops, 992px and up) */

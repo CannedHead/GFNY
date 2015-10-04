@@ -2,7 +2,9 @@
 <div class="col-xs-12 no-padding contacto">
 	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/contacto.jpg">
 	<div class="hidden-xs col-sm-2 col-sm-offset-5 logo-contact">
-		<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO+GFNY.svg">
+		<div class="col-sm-10 col-sm-offset-1 no-padding">
+			<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO+GFNY.svg">
+		</div>
 	</div>		
 	<h1 class="text-center">¿TIENES PREGUNTAS?</h1>
 </div>
@@ -23,7 +25,7 @@
 			    <label for="inputQuestion">Pregunta</label>
 			    <textarea class="form-control" rows="4"></textarea> 
 			</div>
-			<input class="btn btn-block btn-lg btn-gfny" type="submit" value="Enviar">
+			<input class="btn btn-block btn-lg btn-gfny-two" type="submit" value="Enviar">
 		</div>		
 	</form>
 </div>

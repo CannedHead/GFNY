@@ -670,6 +670,12 @@ a:hover{
   font-smoothing: antialiased;
   z-index:2;
 }
+
+.photo a.bottom:after{
+	bottom: 35px;
+	top: auto;
+}
+
 .photo a:hover:before {
   opacity: .5;
 }
@@ -685,6 +691,10 @@ a:hover{
 	opacity: .5;
 	z-index: 1;
 	right:0;
+}
+
+.photo .square.bottom{
+	bottom: 60px;
 }
 
 .photo h2{

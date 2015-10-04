@@ -8,28 +8,28 @@
 		    <div class="swiper-container col-xs-12 visible-xs">
 		        <div class="swiper-wrapper">
 		            <div class="swiper-slide">
-						<img class="img-responsive" src="http://lorempixel.com/429/530/sports/1">
+						<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Equipos+GFNY.jpg">
 		                <div class="title-xs" >
 		                    <h2> Equipos <h2>
 		                    <h1>GNFY COLOMBIA.</h1>
 		                </div>
 		            </div>
 		            <div class="swiper-slide">
-		            	<img class="img-responsive" src="http://lorempixel.com/429/530/sports/2">
+		            	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Corrales.jpg">
 		                <div class="title-xs" >
 		                    <h2> CORRALES<h2>
 		                    <h1>DE PARTIDA</h1>
 		                </div>
 		            </div>
 		            <div class="swiper-slide">
-		            	<img class="img-responsive" src="http://lorempixel.com/429/530/sports/3">
+		            	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Competencia.jpg">
 		                <div class="title-xs">
 		                    <h2> COMPETENCIA <h2>
 		                    <h1>POR EQUIPOS</h1>
 		                </div>
 		            </div>
 		            <div class="swiper-slide">
-		            	<img class="img-responsive" src="http://lorempixel.com/429/530/sports/4">
+		            	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/e%CC%81l+y+ella.jpg">
 		                <div class="title-xs">
 		                    <h2> CATEGORIA<h2>
 		                    <h1>EL-ELLA</h1>
@@ -47,14 +47,14 @@
 				<div class="row">
 					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-right top categoria">
 						<div class="categoria-wrapper">
-						    <img class="img-responsive" src="img/categoria3.jpg">
+						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Equipos+GFNY.jpg">
 						    <h3 class="text-center">Equipos GNFY COLOMBIA</h3>
 					    </div>
 					    <div class='square'></div>
 				  	</a>
 					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-left top categoria">
 						<div class="categoria-wrapper">
-						    <img class="img-responsive" src="img/categoria1.jpg">
+						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Corrales.jpg">
 						    <h3 class="text-center">Corrales de partida</h3>
 					    </div>
 					    <div class='square'></div>
@@ -64,14 +64,14 @@
 				<div class="row">
 					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-right categoria">
 						<div class="categoria-wrapper">
-						    <img class="img-responsive" src="img/categoria4.jpg">
+						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Competencia.jpg">
 						    <h3 class="text-center">Competencia por equipos</h3>
 					    </div>
 					    <div class='square'></div>
 				  	</a>
 					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-left categoria">
 						<div class="categoria-wrapper">
-						    <img class="img-responsive" src="img/categoria2.jpg">
+						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/e%CC%81l+y+ella.jpg">
 						    <h3 class="text-center">Categoría él-ella</h3>
 					    </div>
 					    <div class='square'></div>
@@ -104,7 +104,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-6 hidden-xs '>
-				<img class="img-responsive" src="img/categoria3.jpg">
+				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Equipos+GFNY+textos.jpg">
 			</div>
 
 		</div>
@@ -144,7 +144,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-6 hidden-xs'>
-				<img class="img-responsive" src="img/categoria1.jpg">
+				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Corrales+Texto.jpg">
 			</div>
 		</div>
 	</div>
@@ -180,7 +180,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-6 hidden-xs'>
-				<img class="img-responsive" src="img/categoria4.jpg">
+				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Competencia+textos.jpg">
 			</div>
 		</div>
 	</div>
@@ -212,7 +212,7 @@
 			</div>
 
 			<div class ='col-xs-12 col-md-6 hidden-xs'>
-				<img class="img-responsive" src="img/categoria2.jpg">
+				<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/e%CC%81l+y+ella+texto.jpg">
 			</div>
 		</div>
 	</div>

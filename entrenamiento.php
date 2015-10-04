@@ -16,13 +16,15 @@
 			<div class ='col-xs-12 col-md-6'>
                 <figure class='photo'>
                     <div class='square pull-right'></div>
-                    <a href='#' style='background-image:url("http://lorempixel.com/640/720/sports");'></a>
+                    <a href='#' style='background-image:url("https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/148-km.jpg");'></a>
+                    <h2>Plan para los<br><span>148KM</span></h2>
 				</figure>
 			</div>
 			<div class ='col-xs-12 col-md-6'>
                 <figure class='photo'>
-                    <div class='square pull-right'></div>
-                    <a href='#' style='background-image:url("http://lorempixel.com/640/720/sports");'></a>
+                    <div class='square pull-right'></div>                    
+                    <a href='#' style='background-image:url("https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/98km.jpg");'></a>
+                    <h2>Plan para los<br><span>98KM</span></h2>
 				</figure>
 			</div>
 		</div>

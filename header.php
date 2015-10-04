@@ -85,16 +85,28 @@
                 </li>
                 <li>
                   <a id="viaje" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">VIAJE</a>
-                  <ul class="dropdown-menu list-inline sub">
+                  <ul class="dropdown-menu list-inline sub" style='left: -51.3%; !important'>
                     <li>
                       <a href="/viaje/hoteles">HOTELES</a>
                     </li>
-                    <li>
+                    <li class='left-inline'>
                       <a href="#">CIUDAD</a>
                     </li>
-                    <li>
+                    <li class='left-inline'>
                       <a href="#">GUÍA TURÍSTICA</a>
                     </li>
+                    <li class='left-inline'>
+                      <a style='visibility:hidden' href="#">GUÍA TURÍSTICA</a>
+                    </li>
+                    <li class='left-inline'>
+                      <a style='visibility:hidden' href="#">GUÍA TURÍSTICA</a>
+                    </li>
+                    <li class='left-inline'>
+                      <a style='visibility:hidden' href="#">GUÍA TURÍSTICA</a>
+                    </li>
+                    <li style='visibility:hidden' class='left-inline'>
+                      <a  href="#">GUÍA TURÍSTICA</a>
+                    </li>                    
                   </ul>
                 </li>
                 <li><a href="#">SHOP</a>

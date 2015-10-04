@@ -237,7 +237,7 @@ a:hover{
 
 .navbar-gnfy ul.sub{
 	position:absolute;
-	top:52px;
+	top:49px;
 	z-index: 5;
 	width:812% !important;
 	left:-52%;
@@ -259,8 +259,8 @@ a:hover{
 
 .navbar-gnfy ul.sub > li > a{
 	font-family: 'bebas_neueregular';
-	padding: 15px 0px;
-	font-size:1.7em;
+	padding: 11px 0px;
+	font-size:1.5em;
 	color:#000;
 }
 
@@ -272,8 +272,8 @@ a:hover{
 .rey-reina-links {
 	padding: 0px !important;
 	line-height: 15px !important;
-	margin-top: 11.5px !important;
-	margin-bottom: 22px !important;
+	margin-top: 5.1px !important;
+	margin-bottom: 16px !important;
 }
 
 .pageheader{

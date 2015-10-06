@@ -39,7 +39,7 @@
 
     		<!-- Div for web -->
 		    <div class="col-md-12 no-padding hidden-xs web-nav" style='margin-top: 1.2%'>
-				<p class="col-xs-12">
+				<p class="col-xs-12 no-padding">
 					Las personas pueden inscribirse individualmente o también como miembros de un equipo para participar en la Competencia por
 				</p>
 				

@@ -642,6 +642,10 @@ a:hover{
   background-size: 100% auto;
   background-repeat: no-repeat;
   margin-bottom: 60px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .photo a:before {
   content: '';

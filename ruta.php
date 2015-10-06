@@ -68,7 +68,7 @@
 	            </a>
 		    </div>
 
-			<div id="#recorrido" class='col-xs-12 col-md-4 ruta-top'>
+			<div id="recorrido" class='col-xs-12 col-md-4 ruta-top'>
 				<h1>RECORRIDO</h1>
 				<p class='ruta-p'>
 					En Colombia casi todos montan en bicicleta, sean jardineros o presidentes. Esta es la tierra de algunos de los mejores escaladores del mundo, y Bogotá y su sabana, el patio de recreo donde varios campeones han formado sus piernas y forjado su tenaz carácter. La ruta del Gran Fondo lo sorprenderá en más de un momento. La salida será en las afueras de Bogotá, en inmediaciones de La Calera, población ubicada a 11km de la ciudad. A lo largo del camino los participantes serán retados por un terreno montañoso de variado perfil de inclinación y diversos falsos planos, con el punto más exigente en los 11km de subida a la Cuchilla, ubicada en el Páramo de Guasca (3.365 msnm), crono escalada que coronará al Rey y Reina de la montaña. Por todo esto, los locales cele-

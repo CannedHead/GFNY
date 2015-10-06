@@ -22,12 +22,14 @@
 	      <div class="panel-body">
 	      	<div class="col-sm-10 col-sm-offset-1 hotel-info">
 	      		<div class="col-sm-6">
+	      		<p style="color:#000">
 	            Elegancia, Simplicidad y Estilo en el Hotel GHL 93.<br><br>
 				40 elegantes y lujosas habitaciones cada una diseñada y decorada con estilo minimalista, con una paleta de colores neutros y detalles lujosos para los clientes más exigentes, viajeros internacionales, de negocio o turismo.<br><br>
 				El Hotel GHL 93 se encuentra en una de las zonas gastronómicas más conocidas y diversas de Bogotá, cerca los centros de negocios, exclusivas opciones de restaurantes, entretenimiento y turismo en Bogotá.<br><br>
 				El hotel ofrece servicios personalizados para su comodidad y conveniencia. Servicio de conserjería para requerimientos personales y corporativos disponibles las 24 horas del día.<br><br>
 				Tarifas especiales para inscritos al GFNY Colombia:<br>
 				- $180.000 COP por noche (sin impuestos); desayuno incluido.
+				</p>
 				</div>
 				<div class="col-sm-4 col-sm-offset-1">
 					<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/logo-GHLSTYLE-93-ALTA.png">
@@ -54,6 +56,7 @@
 	      <div class="panel-body">
 	        <div class="col-sm-10 col-sm-offset-1 hotel-info">
 	      		<div class="col-sm-6">
+	      		<p style="color:#000">
 	            Elegancia, Simplicidad y Estilo en el Hotel GHL 93.<br><br>
 				40 elegantes y lujosas habitaciones cada una diseñada y decorada con estilo minimalista, con una paleta de colores neutros y detalles lujosos para los clientes más exigentes, viajeros internacionales, de negocio o turismo.<br><br>
 				El Hotel GHL 93 se encuentra en una de las zonas gastronómicas más conocidas y diversas de Bogotá, cerca los centros de negocios, exclusivas opciones de restaurantes, entretenimiento y turismo en Bogotá.<br><br>
@@ -61,6 +64,7 @@
 				Tarifas especiales para inscritos al GFNY Colombia:<br>
 				- $180.000 COP por noche (sin impuestos); desayuno incluido.
 				</div>
+				</p>
 				<div class="col-sm-3 col-sm-offset-1">
 					<img style="background-color:#FFF; padding:20px;" class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/logo-FPSBOG-positivo-4.png">
 				</div>
@@ -86,12 +90,14 @@
 	      <div class="panel-body">
 	        <div class="col-sm-10 col-sm-offset-1 hotel-info">
 	      		<div class="col-sm-6">
+	      		<p style="color:#000">
 	            Elegancia, Simplicidad y Estilo en el Hotel GHL 93.<br><br>
 				40 elegantes y lujosas habitaciones cada una diseñada y decorada con estilo minimalista, con una paleta de colores neutros y detalles lujosos para los clientes más exigentes, viajeros internacionales, de negocio o turismo.<br><br>
 				El Hotel GHL 93 se encuentra en una de las zonas gastronómicas más conocidas y diversas de Bogotá, cerca los centros de negocios, exclusivas opciones de restaurantes, entretenimiento y turismo en Bogotá.<br><br>
 				El hotel ofrece servicios personalizados para su comodidad y conveniencia. Servicio de conserjería para requerimientos personales y corporativos disponibles las 24 horas del día.<br><br>
 				Tarifas especiales para inscritos al GFNY Colombia:<br>
 				- $180.000 COP por noche (sin impuestos); desayuno incluido.
+				</p>
 				</div>
 				<div class="col-sm-4 col-sm-offset-1">
 					<img class="img-responsive" src="http://placehold.it/350x150">
@@ -118,12 +124,14 @@
 	      <div class="panel-body">
 	        <div class="col-sm-10 col-sm-offset-1 hotel-info">
 	      		<div class="col-sm-6">
+	      		<p style="color:#000">
 	            Elegancia, Simplicidad y Estilo en el Hotel GHL 93.<br><br>
 				40 elegantes y lujosas habitaciones cada una diseñada y decorada con estilo minimalista, con una paleta de colores neutros y detalles lujosos para los clientes más exigentes, viajeros internacionales, de negocio o turismo.<br><br>
 				El Hotel GHL 93 se encuentra en una de las zonas gastronómicas más conocidas y diversas de Bogotá, cerca los centros de negocios, exclusivas opciones de restaurantes, entretenimiento y turismo en Bogotá.<br><br>
 				El hotel ofrece servicios personalizados para su comodidad y conveniencia. Servicio de conserjería para requerimientos personales y corporativos disponibles las 24 horas del día.<br><br>
 				Tarifas especiales para inscritos al GFNY Colombia:<br>
 				- $180.000 COP por noche (sin impuestos); desayuno incluido.
+				</p>
 				</div>
 				<div class="col-sm-4 col-sm-offset-1">
 					<img class="img-responsive" src="http://placehold.it/350x150">

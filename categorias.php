@@ -39,38 +39,39 @@
 		    </div>	
 
     		<!-- Div for web -->
-		    <div class="col-md-12 hidden-xs web-nav" style='margin-top: 1.2%'>
+		    <div class="col-md-12 no-padding hidden-xs web-nav" style='margin-top: 1.2%'>
 				<p class="col-xs-12">
 					Las personas pueden inscribirse individualmente o también como miembros de un equipo para participar en la Competencia por
 				</p>
 				
-				<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-right top categoria">
-					<div class="categoria-wrapper">
+				<a data-scroll href="#equipos" class="col-xs-12 col-sm-3 categoria">
+					<div class="categorias-wrapper">
 					    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Equipos+GFNY.jpg">
 					    <h3 class="text-center">Equipos GNFY COLOMBIA</h3>
+					    <div class='square'></div>
 				    </div>
-				    <div class='square'></div>
+				    
 			  	</a>
-				<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-left top categoria">
-					<div class="categoria-wrapper">
+				<a data-scroll href="#corrales" class="col-xs-12 col-sm-3 categoria">
+					<div class="categorias-wrapper">
 					    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Corrales.jpg">
 					    <h3 class="text-center">Corrales de partida</h3>
+					    <div class='square'></div>
 				    </div>
-				    <div class='square'></div>
 			  	</a>			  	
-				<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-right categoria">
-					<div class="categoria-wrapper">
+				<a data-scroll href="#competencia" class="col-xs-12 col-sm-3 categoria">
+					<div class="categorias-wrapper">
 					    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Competencia.jpg">
 					    <h3 class="text-center">Competencia por equipos</h3>
+					    <div class='square'></div>
 				    </div>
-				    <div class='square'></div>
 			  	</a>
-				<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-left categoria">
-					<div class="categoria-wrapper">
+				<a data-scroll href="#elella" class="col-xs-12 col-sm-3 categoria">
+					<div class="categorias-wrapper">
 					    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/e%CC%81l+y+ella.jpg">
 					    <h3 class="text-center">Categoría él-ella</h3>
+					    <div class='square'></div>
 				    </div>
-				    <div class='square'></div>
 			  	</a>
 		    </div>
 
@@ -80,7 +81,7 @@
 				</div>
 			</div>	
 
-			<div class='col-xs-12 col-md-6 text-md'>
+			<div id="equipos" class='col-xs-12 col-md-6 text-md'>
 				<h2 class='visible-xs'>Equipos</h2>
 				<h1 class='visible-xs'>GNFY COLOMBIA.</h1>
 				<p class='ruta-p'>
@@ -117,7 +118,7 @@
 
 		<div class='col-xs-12'>
 			
-			<div class='col-xs-12 col-md-6 text-md'>
+			<div id="corrales" class='col-xs-12 col-md-6 text-md'>
 				<h2 class='visible-xs'> CORRALES </h2>
 				<h1 class='visible-xs'>DE PARTIDA</h1>
 				<p class='ruta-p'>
@@ -146,7 +147,7 @@
 
 	<div class='gray'></div>	
 
-	<div class="col-xs-12 categorias">
+	<div id="competencia" class="col-xs-12 categorias">
 
 		<div class='col-md-12 hidden-xs title-md'>
 			<div class='col-md-12'>
@@ -182,7 +183,7 @@
 
 	<div class='gray'></div>	
 
-	<div class="col-xs-12 categorias" style='margin-bottom:10%'>
+	<div id="elella" class="col-xs-12 categorias" style='margin-bottom:10%'>
 
 		<div class='col-md-12 hidden-xs title-md'>
 			<div class='col-md-12'>

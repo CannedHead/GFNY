@@ -4,6 +4,7 @@
    <script src="/js/smooth-scroll.min.js"></script>
    <!-- Initialize Swiper -->
     <script>
+    	smoothScroll.init();
     	var swiper = new Swiper('.swiper-container');
     </script>
    <script type="text/javascript" src="/js/TimeCircles.js"></script>

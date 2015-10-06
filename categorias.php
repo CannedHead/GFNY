@@ -75,13 +75,13 @@
 			  	</a>
 		    </div>
 
-			<div class='col-md-12 hidden-xs title-md categorias-top'>
+			<div  id="equipos" class='col-md-12 hidden-xs title-md categorias-top'>
 				<div class='col-md-12'>
 					<h2 class='hidden-xs'> Equipos GNFY COLOMBIA.</h2>
 				</div>
 			</div>	
 
-			<div id="equipos" class='col-xs-12 col-md-6 text-md'>
+			<div class='col-xs-12 col-md-6 text-md'>
 				<h2 class='visible-xs'>Equipos</h2>
 				<h1 class='visible-xs'>GNFY COLOMBIA.</h1>
 				<p class='ruta-p'>
@@ -110,7 +110,7 @@
 
 	<div class="col-xs-12 categorias">
 		
-		<div class='col-md-12 hidden-xs title-md'>
+		<div id="corrales" class='col-md-12 hidden-xs title-md'>
 			<div class='col-md-12'>
 				<h2 class='hidden-xs'> CORRALES DE PARTIDA </h2>
 			</div>
@@ -118,7 +118,7 @@
 
 		<div class='col-xs-12'>
 			
-			<div id="corrales" class='col-xs-12 col-md-6 text-md'>
+			<div class='col-xs-12 col-md-6 text-md'>
 				<h2 class='visible-xs'> CORRALES </h2>
 				<h1 class='visible-xs'>DE PARTIDA</h1>
 				<p class='ruta-p'>
@@ -212,13 +212,5 @@
 			</div>
 		</div>
 	</div>
-
-    <!-- Swiper JS -->
-    <script src="js/swiper.min.js"></script>
-
-    <!-- Initialize Swiper -->
-    <script>
-    var swiper = new Swiper('.swiper-container');
-    </script>
 
 <?php include 'footer.php';?>    

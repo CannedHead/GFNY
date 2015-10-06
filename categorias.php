@@ -1,5 +1,4 @@
 <?php include 'header.php';?>  
-
 	<div class="col-xs-12 categorias">
 		<hr class='visible-xs'>
 		<div class='col-xs-12'>

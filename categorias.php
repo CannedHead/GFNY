@@ -45,14 +45,14 @@
 				</p>
 				
 				<div class="row">
-					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-right top categoria">
+					<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-right top categoria">
 						<div class="categoria-wrapper">
 						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Equipos+GFNY.jpg">
 						    <h3 class="text-center">Equipos GNFY COLOMBIA</h3>
 					    </div>
 					    <div class='square'></div>
 				  	</a>
-					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-left top categoria">
+					<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-left top categoria">
 						<div class="categoria-wrapper">
 						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Corrales.jpg">
 						    <h3 class="text-center">Corrales de partida</h3>
@@ -62,14 +62,14 @@
 			  	</div>
 				
 				<div class="row">
-					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-right categoria">
+					<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-right categoria">
 						<div class="categoria-wrapper">
 						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Competencia.jpg">
 						    <h3 class="text-center">Competencia por equipos</h3>
 					    </div>
 					    <div class='square'></div>
 				  	</a>
-					<a href="#" class="col-xs-12 col-sm-6 no-padding categorias-left categoria">
+					<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-left categoria">
 						<div class="categoria-wrapper">
 						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/e%CC%81l+y+ella.jpg">
 						    <h3 class="text-center">Categoría él-ella</h3>

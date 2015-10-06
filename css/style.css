@@ -132,7 +132,7 @@ html,body{
 	.nav > li > a{
 		font-family: "bebas_neueregular";
 		font-size: 1.7em;
-		text-align: center;
+		text-align: left;
 		font-weight: bold;
 	}
 
@@ -144,7 +144,7 @@ html,body{
 	.dropdown-menu > li > a {
 		font-family: "bebas_neueregular";
 		font-size: 1.7em;
-		text-align: center;
+		text-align: left;
 		font-weight: bold;
 		color:#FFF;
 	}

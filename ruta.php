@@ -11,7 +11,7 @@
 						<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Ruta-1.jpg">
 		                <div class="title-xs" >
 		                    <h1>RECORRIDO</h1>
-		                    <p>En Colombia casi todos montan en bicicleta, sean jardineros o presidentes. Esta es la tierra de algunos de los mejores escaladores del mundo, y Bogotá y su sabana, el patio de recreo donde varios campeones han formado sus piernas y forjado su tenaz carácter.</p>
+		                    <p class="hidden-xs">En Colombia casi todos montan en bicicleta, sean jardineros o presidentes. Esta es la tierra de algunos de los mejores escaladores del mundo, y Bogotá y su sabana, el patio de recreo donde varios campeones han formado sus piernas y forjado su tenaz carácter.</p>
 		                </div>
 		            </div>
 		            <div class="swiper-slide">
@@ -19,7 +19,7 @@
 		                <div class="title-xs" >
 		                    <h2> RUTA DEL <h2>
 		                    <h1>GRAN FONDO</h1>
-		                    <p>
+		                    <p class="hidden-xs">
 								La ruta del Gran Fondo lo sorprenderá en más de un momento. Terreno montañoso de variado perfil de inclinación y diversos falsos planos, con el punto más exigente en los 11km de subida a la Cuchilla, ubicada en el Páramo de Guasca (3.365 msnm), crono escalada que coronará al Rey y Reina de la montaña. Por todo esto, los locales celebrarán su llegada a la meta como si fuera un campeón de etapa del Tour de Francia. 	                    	
 		                    </p>
 		                </div>
@@ -29,7 +29,7 @@
 		                <div class="title-xs">
 		                    <h2> RUTA DEL <h2>
 		                    <h1>MEDIO FONDO</h1>
-		                    <p>
+		                    <p class="hidden-xs">
 								El Medio Fondo transcurre sobre el mismo montañoso e impactante camino que toma	el Gran Fondo, pero en vez de 148km cubre 98km, que también son exigentes aunque no incluyan el crono escalada, que es uno de los tramos más exigentes del GFNY Colombia, ideal para los más experimentados y competitivos participantes.                   	
 		                    </p>
 		                </div>

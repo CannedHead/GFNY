@@ -1215,9 +1215,10 @@ a:hover{
 	}
 
 	.categorias .square:after {
-	  right:20%;
-	  font-size: 583%;
-	  line-height: 107px;
+	    line-height: 74px;
+		right: 10px;
+		font-size: 2em;
+		top: -17px;
 	}
 
 }

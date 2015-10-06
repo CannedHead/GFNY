@@ -1116,6 +1116,8 @@ p{
 		font-size: 1.4em;
 		text-align: left;
 		letter-spacing: 0.05em;
+		padding-left: 0;
+		padding-right: 0;
 	}
 
 	.categorias .square:after {

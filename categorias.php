@@ -58,10 +58,7 @@
 						    <h3 class="text-center">Corrales de partida</h3>
 					    </div>
 					    <div class='square'></div>
-				  	</a>
-			  	</div>
-				
-				<div class="row">
+				  	</a>			  	
 					<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-right categoria">
 						<div class="categoria-wrapper">
 						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Competencia.jpg">

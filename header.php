@@ -85,7 +85,7 @@
                 </li>
                 <li>
                   <a id="viaje" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">VIAJE</a>
-                  <ul class="dropdown-menu list-inline sub" style='left: -51.3%; !important'>
+                  <ul class="dropdown-menu list-inline sub" style='left: -52%; !important'>
                     <li>
                       <a href="/viaje/hoteles">HOTELES</a>
                     </li>

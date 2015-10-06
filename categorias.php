@@ -40,40 +40,38 @@
 
     		<!-- Div for web -->
 		    <div class="col-md-12 hidden-xs web-nav" style='margin-top: 1.2%'>
-				<p>
+				<p class="col-xs-12">
 					Las personas pueden inscribirse individualmente o también como miembros de un equipo para participar en la Competencia por
 				</p>
 				
-				<div class="row">
-					<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-right top categoria">
-						<div class="categoria-wrapper">
-						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Equipos+GFNY.jpg">
-						    <h3 class="text-center">Equipos GNFY COLOMBIA</h3>
-					    </div>
-					    <div class='square'></div>
-				  	</a>
-					<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-left top categoria">
-						<div class="categoria-wrapper">
-						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Corrales.jpg">
-						    <h3 class="text-center">Corrales de partida</h3>
-					    </div>
-					    <div class='square'></div>
-				  	</a>			  	
-					<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-right categoria">
-						<div class="categoria-wrapper">
-						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Competencia.jpg">
-						    <h3 class="text-center">Competencia por equipos</h3>
-					    </div>
-					    <div class='square'></div>
-				  	</a>
-					<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-left categoria">
-						<div class="categoria-wrapper">
-						    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/e%CC%81l+y+ella.jpg">
-						    <h3 class="text-center">Categoría él-ella</h3>
-					    </div>
-					    <div class='square'></div>
-				  	</a>
-		   		</div>
+				<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-right top categoria">
+					<div class="categoria-wrapper">
+					    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Equipos+GFNY.jpg">
+					    <h3 class="text-center">Equipos GNFY COLOMBIA</h3>
+				    </div>
+				    <div class='square'></div>
+			  	</a>
+				<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-left top categoria">
+					<div class="categoria-wrapper">
+					    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Corrales.jpg">
+					    <h3 class="text-center">Corrales de partida</h3>
+				    </div>
+				    <div class='square'></div>
+			  	</a>			  	
+				<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-right categoria">
+					<div class="categoria-wrapper">
+					    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Competencia.jpg">
+					    <h3 class="text-center">Competencia por equipos</h3>
+				    </div>
+				    <div class='square'></div>
+			  	</a>
+				<a href="#" class="col-xs-12 col-sm-3 no-padding categorias-left categoria">
+					<div class="categoria-wrapper">
+					    <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/e%CC%81l+y+ella.jpg">
+					    <h3 class="text-center">Categoría él-ella</h3>
+				    </div>
+				    <div class='square'></div>
+			  	</a>
 		    </div>
 
 			<div class='col-md-12 hidden-xs title-md categorias-top'>

@@ -967,7 +967,7 @@ a:hover{
 }
 
 .ruta p{
-	font-size: 1.7em;
+	font-size: 1em;
 	color:#FFF;
 	font-weight: 550;
 	text-align: justify;
@@ -1010,6 +1010,11 @@ a:hover{
 	text-align: justify;	
 }
 
+@media (min-width: 768px) { 
+	.ruta p{
+		font-size: 1.7em;
+	}
+}
 
 @media (min-width: 1280px) { 
 	.ruta .col-md-4{

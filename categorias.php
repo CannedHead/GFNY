@@ -4,22 +4,22 @@
 		<div class='col-xs-12'>
 
     		<!-- Swiper for mobile -->
-		    <div class="swiper-container col-xs-12 visible-xs">
+		    <div class="swiper-container col-xs-12 visible-xs no-padding">
 		        <div class="swiper-wrapper">
 		            <div class="swiper-slide">
-						<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Equipos+GFNY.jpg">
+						<a data-scroll href="#equipos"><img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Equipos+GFNY.jpg"></a>
 		                <div class="title-xs" >
 		                    <h2> Equipos <h2>
 		                    <h1>GNFY COLOMBIA.</h1>
 		                </div>
 		            </div>
-		            <div class="swiper-slide">
+		            <a data-scroll href="#corrales" class="swiper-slide">
 		            	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Corrales.jpg">
 		                <div class="title-xs" >
 		                    <h2> CORRALES<h2>
 		                    <h1>DE PARTIDA</h1>
 		                </div>
-		            </div>
+		            </a>
 		            <div class="swiper-slide">
 		            	<img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Competencia.jpg">
 		                <div class="title-xs">

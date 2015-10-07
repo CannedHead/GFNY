@@ -149,6 +149,15 @@ html,body{
 		color:#FFF;
 	}
 
+	.rey-reina-links {
+		margin-left: 26px;
+	}
+
+	.ruta h1 {
+	    font-size: 2em;
+	    text-align: center;
+	}
+
 }
 
 .img-responsive{

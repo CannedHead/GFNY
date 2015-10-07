@@ -732,7 +732,6 @@ a:hover{
   background-position: center;
   background-size: 100% auto;
   background-repeat: no-repeat;
-  margin-bottom: 60px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -768,7 +767,7 @@ a:hover{
 }
 
 .photo a.bottom:after{
-	bottom: 35px;
+	bottom: 22px;
 	top: auto;
 }
 
@@ -790,7 +789,7 @@ a:hover{
 }
 
 .photo .square.bottom{
-	bottom: 60px;
+	bottom: 0px;
 }
 
 .photo h2{
@@ -816,6 +815,10 @@ a:hover{
 	.entrenamiento p{
 		font-size: 1.3em;
 	}
+	
+	.photo{
+		margin-bottom: 20px;
+	}
 
 	.photo h2{
 		font-size: 60px;
@@ -834,6 +837,11 @@ a:hover{
 	  top: 7px;
 	  right: 25px;
 	  font-size: 55px;
+	}
+
+
+	.photo a.bottom:after {
+    	bottom: 30px;
 	}
 
 }

@@ -465,6 +465,13 @@ a:hover{
     line-height: 1.4;
 }
 
+.videoshome{
+	min-height: 500px;
+}
+.videoshome h2{
+	color:#FFF;
+}
+
 .newsletter{
 	background-color: #000;
 	float: left;
@@ -477,69 +484,58 @@ a:hover{
 
 .newsletter .form-control{
 	font-weight: 400;
-	font-size: 40px;
+	font-size: 30px;
 	font-style: italic;
 	border-radius: 5px;
-	padding: 11px 15px;
+	padding: 0px 15px;
 	background: #B3B3B3 none repeat scroll 0% 0%;
 	border: medium none;
 	height: 55px;
 }
 
-#DateCountdown {
-    height: 100px;
-    padding: 0px;
-    width: 400px;
-    margin:10px auto 0 auto;
-    padding: 0;
-}
-#DateCountdown h4,
-#DateCountdown span {
-    color: #ffffff;
+
+.chartlist {
+  margin: 4em auto;
+  text-align: center;
 }
 
-/**
- *	This element is created inside your target element
- *	It is used so that your own element will not need to be altered
- **/
-.time_circles {
-    position: relative;
-    width: 100%;
-    height: 100%;
+.chart {
+  display: inline-block;
+  width: 95px;
+  height: 95px;
+  margin: 0 10px;
+  vertical-align: top;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-top: 22px;
+  color:#FFF;
 }
 
-/**
- *	This is all the elements used to house all text used
- * in time circles
- **/
-.time_circles > div {
-    position: absolute;
-    text-align: center;
+.chart span {
+  display: block;
+  font-size: 2em;
+  font-weight: normal;
+  color:#FFF;
 }
 
-/**
- *	Titles (Days, Hours, etc)
- **/
-.time_circles > div > h4 {
-    margin: 0px;
-    padding: 0px;
-    text-align: center;
-    text-transform: uppercase;
-    font-family: 'Century Gothic', Arial;
-    color:#FFF;
+.chart canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
-/**
- *	Time numbers, ie: 12
- **/
-.time_circles > div > span {
-    display: block;
-    width: 100%;
-    text-align: center;
-    font-family: 'Century Gothic', Arial;
-    font-size: 300%;
-    margin-top: 0.4em;
-    font-weight: bold;
+#biciq-embed-AA7MuECoIH3KUMIYmdiwOQ{
+	margin-bottom: 20px;
+}
+
+#biciq-embed-AA7MuECoIH3KUMIYmdiwOQ iframe{
+	width:100% !important;
+}
+
+.patrocinadores{
+	margin-top:70px;
 }
 
 .hotel h1, .hotel p{

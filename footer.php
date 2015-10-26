@@ -1,5 +1,4 @@
    </div>
-   </div>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> 
    <script src="/js/bootstrap.min.js"></script> 
    <script src="/js/swiper.min.js"></script> 
@@ -25,6 +24,25 @@
           }            
       }
     </script>
-   <script type="text/javascript" src="/js/TimeCircles.js"></script>
+    <script src="/js/jquery.easypiechart.min.js"></script>
+    <script>
+        $(function() {
+            var options = {
+              scaleColor: false,
+              trackColor: 'rgba(255,255,255,0.3)',
+              barColor: '#9EFF00',
+              lineWidth: 6,
+              lineCap: 'butt',
+              size: 98
+            };
+
+            window.addEventListener('DOMContentLoaded', function() {
+              var charts = [];
+              [].forEach.call(document.querySelectorAll('.chart'),  function(el) {
+                charts.push(new EasyPieChart(el, options));
+              });
+            });
+        });
+    </script>
    </body>
 </html>

@@ -24,7 +24,7 @@
           }            
       }
     </script>
-    <script src="/gnfy/js/jquery.easypiechart.min.js"></script>
+    <script src="/js/jquery.easypiechart.min.js"></script>
     <script>
         $(function() {
             var options = {

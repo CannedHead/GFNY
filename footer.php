@@ -24,7 +24,7 @@
           }            
       }
     </script>
-    <script src="/js/jquery.easypiechart.min.js"></script>
+    <script src="/gnfy/js/jquery.easypiechart.min.js"></script>
     <script>
         $(function() {
             var options = {
@@ -44,5 +44,13 @@
             });
         });
     </script>
+    <script src="/gnfy/js/fluidvids.min.js"></script>
+          <script>
+            $(document).ready(function(){
+              fluidvids.init({
+                selector: ['iframe', 'object'], // runs querySelectorAll()
+                players: ['www.youtube.com', 'player.vimeo.com'] // players to support
+              });            });
+          </script>
    </body>
 </html>

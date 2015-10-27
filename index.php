@@ -93,8 +93,15 @@
             <div class="videoshome col-xs-12">
                 <h2 class="text-center">VIDEOS GFNY COLOMBIA</h2>
                 <div class="row">
-                <iframe class="col-sm-5 col-sm-offset-1" height="30%" src="https://www.youtube.com/embed/n53fZ9U2K8k" frameborder="0" allowfullscreen></iframe>
-                <iframe class="col-sm-5" src="https://www.youtube.com/embed/06OiSkCOMEg" frameborder="0" allowfullscreen></iframe>
+                <div class="col-sm-6">
+               
+                  <iframe class="video-home" width="560" height="315" src="https://www.youtube.com/embed/n53fZ9U2K8k" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="col-sm-6">
+                  
+                  <iframe class="video-home" width="560" height="315" src="https://www.youtube.com/embed/06OiSkCOMEg" frameborder="0" allowfullscreen></iframe>
+
+                </div>
                 </div>
             </div>
             <!-- END VIDEOS -->
@@ -107,6 +114,13 @@
 
           </div>
           <!-- REGISTRATION -->
+          
+          <!-- PAUTA -->
+           <!-- Pautaweb: 765x160  Pautamobile:360x65-->
+          <div class="pauta col-xs-12 col-sm-4">
+            <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/gif33.gif">
+          </div>
+          <!-- END PAUTA -->
 
           <!-- NEWSLETTER -->
           <div class="col-xs-12 col-sm-4">
@@ -122,17 +136,9 @@
           </div>
           <!-- END NEWSLETTER -->
           
-           <!-- PAUTA -->
-           <!-- Pautaweb: 765x160  Pautamobile:360x65-->
-          <div class="pauta col-xs-12 col-sm-4">
-            <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/22.gif">
-            <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/22.gif">
-          </div>
-          <!-- END PAUTA -->
-
           <!-- FB -->
           <div class="fb col-xs-12 col-sm-4">
-            <div class="fb-page" data-href="https://www.facebook.com/gfnycolombia" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/gfnycolombia"><a href="https://www.facebook.com/gfnycolombia">GFNY Colombia</a></blockquote></div></div>
+            <div class="fb-page" data-href="https://www.facebook.com/gfnycolombia" data-width="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/gfnycolombia"><a href="https://www.facebook.com/gfnycolombia">GFNY Colombia</a></blockquote></div></div>
           </div>
           <!-- END FB -->
           

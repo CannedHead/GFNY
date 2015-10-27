@@ -69,6 +69,29 @@ html,body{
 	margin: 0;
 }
 
+.video-home {
+    margin: 0% !important;
+    max-width: 100%;
+}
+
+._2p3a{
+	width: 100% !important;
+}
+
+.fb-page,.fb-comments, .fb-comments iframe[style], .fb-comments span {
+   width: 100% !important;
+}
+
+/* This element holds injected scripts inside iframes that in some cases may stretch layouts. So, we're just hiding it. */
+#fb-root {
+  display: none;
+}
+
+/* To fill the container and nothing else */
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+  width: 100% !important;
+}
+
 .menu-mobile{
 	position: fixed;
 	background-color:#333333;
@@ -466,7 +489,7 @@ a:hover{
 }
 
 .videoshome{
-	min-height: 500px;
+	margin-bottom: 15px;
 }
 .videoshome h2{
 	color:#FFF;
@@ -476,6 +499,7 @@ a:hover{
 	background-color: #000;
 	float: left;
     margin-bottom: 10px;
+    width: 100%;
 }
 
 .newsletter h3{

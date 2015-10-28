@@ -519,15 +519,17 @@ a:hover{
 
 
 .chartlist {
-  margin: 4em auto;
-  text-align: center;
+    text-align: center;
+    width: 100%;
+    float: left;
+    margin: 4em 0px 4em -25px;
 }
 
 .chart {
   display: inline-block;
   width: 95px;
   height: 95px;
-  margin: 0 10px;
+  margin: 0 4px;
   vertical-align: top;
   position: relative;
   -webkit-box-sizing: border-box;
@@ -878,7 +880,14 @@ a:hover{
 	.photo a.bottom:after {
     	bottom: 30px;
 	}
+	
+	.chartlist {
+	  margin: 4em auto;
+	}
 
+	.chart {
+	  margin: 0 10px;
+	}
 }
 @media (min-width: 982px) { 
 	.photo{

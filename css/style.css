@@ -551,15 +551,31 @@ a:hover{
 }
 
 #biciq-embed-AA7MuECoIH3KUMIYmdiwOQ{
-	margin-bottom: 20px;
+	margin-bottom: 45px;
 }
 
 #biciq-embed-AA7MuECoIH3KUMIYmdiwOQ iframe{
 	width:100% !important;
+	height: 593px !important;
 }
 
 .patrocinadores{
+	background-color: #FFFFFF;
+	color:#454545;
 	margin-top:70px;
+}
+
+.patrocinadores h2{
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+.patrocinadores .linea-footer{
+	margin-bottom: 40px;
+}
+
+.strongman{
+	margin-top: 5%;
 }
 
 .hotel h1, .hotel p{

@@ -1,4 +1,18 @@
    </div>
+  <!-- PATROCINADORES -->
+  <div class="patrocinadores col-xs-12">
+    <h2 class="text-center">MAIN SPONSORS</h2>
+    <div class="col-xs-10 col-xs-offset-1 linea-footer">
+      <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Linea%2Bsponsor-01.svg">
+    </div>
+    <div class="col-xs-5 col-xs-offset-1 col-lg-4 col-lg-offset-1 crm-horizontal">
+      <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO%2BCRM_WEB_HORIZONTAL.png">
+    </div>
+    <div class="col-xs-5 col-lg-4 col-lg-offset-1 strongman">
+      <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/STRONGMAN-logo.png">
+    </div>
+  </div>
+  <!-- END PATROCINADORES -->
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> 
    <script src="/js/bootstrap.min.js"></script> 
    <script src="/js/swiper.min.js"></script> 
@@ -44,7 +58,7 @@
             });
         });
     </script>
-    <script src="/gnfy/js/fluidvids.min.js"></script>
+    <script src="/js/fluidvids.min.js"></script>
           <script>
             $(document).ready(function(){
               fluidvids.init({

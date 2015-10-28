@@ -77,9 +77,9 @@
             <div class="row">
               <!-- COUNTDOWN-->
               <ul class="chartlist">
-                <li class="chart" data-percent="75"><span id="dias">26</span>Dias</li>
-                <li class="chart" data-percent="15"><span id="horas">15</span>Horas</li>
-                <li class="chart" data-percent="83"><span id="minutos">50</span>Minutos</li>
+                <li class="chart" data-percent="50"><span id="meses">6</span>Minutos</li>
+                <li class="chart" data-percent="50"><span id="dias">15</span>Dias</li>
+                <li class="chart" data-percent="60"><span id="horas">14</span>Horas</li>                
               </ul>
               <!-- END COUNTDOWN -->
             </div>    

@@ -5,10 +5,10 @@
     <div class="col-xs-10 col-xs-offset-1 linea-footer">
       <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Linea%2Bsponsor-01.svg">
     </div>
-    <div class="col-xs-5 col-xs-offset-1 col-lg-4 col-lg-offset-1 crm-horizontal">
+    <div class="col-xs-5 col-xs-offset-1 col-sm-2 col-sm-offset-3 crm-horizontal">
       <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO%2BCRM_WEB_HORIZONTAL.png">
     </div>
-    <div class="col-xs-5 col-lg-4 col-lg-offset-1 strongman">
+    <div class="col-xs-5 col-sm-2 col-sm-offset-2 strongman">
       <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/STRONGMAN-logo.png">
     </div>
   </div>

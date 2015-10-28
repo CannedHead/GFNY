@@ -571,6 +571,7 @@ a:hover{
 .patrocinadores h2{
 	font-weight: bold;
 	margin-top: 30px;
+	font-size: 24px;
 }
 
 .patrocinadores .linea-footer{
@@ -578,7 +579,7 @@ a:hover{
 }
 
 .strongman{
-	margin-top: 5%;
+	margin-top: 2%;
 }
 
 .hotel h1, .hotel p{

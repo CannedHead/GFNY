@@ -12,7 +12,7 @@
             <!-- IMG1 -->
             <a href="https://biciq.com/events/gfny-colombia-2016?locale=es" class="col-sm-6 no-padding img-index-one">
               <!-- <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/bicicleta.jpg"> -->
-              <img class="img-responsive" src="/gnfy/img/SAVETHEDATE.jpg">
+              <img class="img-responsive" src="/img/SAVETHEDATE.jpg">
               <div class="title">
                 <p>Inscripciones abiertas para el <strong>GFNY</strong><strong><br>Colombia 2016</strong></p>
                 <a href="#" class="control-next">
@@ -70,7 +70,7 @@
           <div class="pauta col-xs-12">
             <!-- Pautaweb: 1095x65  Pautamobile:360x65-->
             <!--<img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/1.gif">-->
-            <img class="img-responsive hidden-xs" src="/gnfy/img/unnamed.gif">
+            <img class="img-responsive hidden-xs" src="/img/unnamed.gif">
           </div>
           <!-- END PAUTA -->
 
@@ -79,17 +79,118 @@
             <div class="row">
               <!-- COUNTDOWN-->
               <ul class="chartlist">
-                <li class="chart" data-percent="50"><span id="meses">6</span>Minutos</li>
-                <li class="chart" data-percent="50"><span id="dias">15</span>Dias</li>
-                <li class="chart" data-percent="60"><span id="horas">14</span>Horas</li>                
+                <li class="chart" data-percent="50"><span id="meses">5</span>Meses</li>
+                <li class="chart" data-percent="50"><span id="dias">3</span>Dias</li>
+                <li class="chart" data-percent="60"><span id="horas">12</span>Horas</li>                
               </ul>
               <!-- END COUNTDOWN -->
             </div>    
             
-            <!-- Inicio del Código Incrustado de Biciq -->
-            <div class="col-xs-12" id="biciq-embed-AA7MuECoIH3KUMIYmdiwOQ"></div>
-            <script src="http://biciq.com/embed/AA7MuECoIH3KUMIYmdiwOQ.js" type="text/javascript"></script>
-            <!-- Fin del Código Inscrutado de Biciq -->
+            <h3 class="text-center">Información de entrada</h3>          
+            <div class="table-responsive">
+               <table class="table">           
+                   <thead>            
+                      <tr>           
+                        <th>FECHA</th>           
+                        <th>TIPO</th>            
+                        <th>PRECIO</th>         
+                        <th></th>            
+                      </tr>           
+                    </thead>
+  
+                    <tbody>  
+                                      <tr>
+                                          <td >April 10, 2016</td>
+                                          <td class="text-center">
+                                            VIP 
+
+                                            <!-- This attribute should have been named "hide_description" since it's what it actually does, thus the confusing naming here -->
+                                              <br>
+                                              <small><em>Incluye: el uniforme completo del GFNY Colombia 2016, salida del primer corral, gorra y premios especiales.
+                      Precio válido hasta el 15 de Marzo</em></small>
+
+                                              <br>
+                                              <strong>Restricciones a menores</strong>
+
+                                          </td>
+                                          <td headers="ticketPrice">$500.000</td>
+                                          <td><a href="https://www.biciq.com/events/gfny-colombia-2016?locale=es" class="btn btn-gfny">REGISTRO</a></td>
+                                          </td>
+                                      </tr>
+                                      <tr>
+                                          <td>April 10, 2016</td>
+                                          <td headers="ticketKind" class="text-center">
+                                            Primera etapa 
+
+                                            <!-- This attribute should have been named "hide_description" since it's what it actually does, thus the confusing naming here -->
+                                              <br>
+                                              <small><em>Precio valido hasta 30 de noviembre</em></small>
+
+                                              <br>
+                                              <strong>Restricciones a menores</strong>
+
+                                          </td>
+                                          <td headers="ticketPrice">$190.000</td>
+                                          <td><a href="https://www.biciq.com/events/gfny-colombia-2016?locale=es" class="btn btn-gfny">REGISTRO</a></td>
+                                      </tr>
+                                      <tr>
+                                          <td>April 10, 2016</td>
+                                          <td headers="ticketKind">
+                                            Segunda etapa 
+
+                                            <!-- This attribute should have been named "hide_description" since it's what it actually does, thus the confusing naming here -->
+                                              <br>
+                                              <small><em>Precio valido hasta el 31 de diciembre</em></small>
+
+                                              <br>
+                                              <strong>Restricciones a menores</strong>
+
+                                          </td>
+                                          <td headers="ticketPrice">$265.000</td>
+                                          <td headers="ticketQuantity">No disponible</td>
+                                      </tr>
+                                      <tr>
+                                          <td>April 10, 2016</td>
+                                          <td headers="ticketKind">
+                                            Tercera etapa 
+
+                                            <!-- This attribute should have been named "hide_description" since it's what it actually does, thus the confusing naming here -->
+                                              <br>
+                                              <small><em>Precio valido hasta el 15 de febrero</em></small>
+
+                                              <br>
+                                              <strong>Restricciones a menores</strong>
+
+                                          </td>
+                                         
+                                            <td headers="ticketPrice">$295.000</td>
+                                            <td headers="ticketQuantity">
+                                                  <input id="shopping_cart_form_number_per_category_" name="shopping_cart_form[number_per_category][]" value="0" type="hidden">
+                                                  No disponible
+                                            </td>
+                                      </tr>
+                                      <tr>
+                                          <td>April 10, 2016</td>
+                                          <td headers="ticketKind">
+                                            Ultima etapa 
+
+                                            <!-- This attribute should have been named "hide_description" since it's what it actually does, thus the confusing naming here -->
+                                              <br>
+                                              <small><em>Precio valido hasta el 15 de marzo</em></small>
+
+                                              <br>
+                                              <strong>Restricciones a menores</strong>
+
+                                          </td>
+                                          <td headers="ticketPrice">$350.000</td>
+                                          <td headers="ticketQuantity">
+                                                <input id="shopping_cart_form_number_per_category_" name="shopping_cart_form[number_per_category][]" value="0" type="hidden">
+                                                No disponible
+                                          </td>
+                                      </tr>
+                    </tbody>
+                </table>
+            </div>
             
             <div class="pauta col-xs-12 no-padding">
               <!-- Pautaweb: 1095x65  Pautamobile:360x65-->

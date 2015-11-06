@@ -27,24 +27,24 @@
 
               <!-- IMG2 & IMG3 -->
               <div class="col-xs-12 no-padding">
-                <a href="http://www.finalap.com/race/gfny-2015-147-km/" class="col-xs-6 no-padding">
+                <a href="http://www.finalap.com/race/gfny-2015-147-km/"  class="col-xs-6 no-padding">
                   <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/sportograf-58992472.jpg">
                   <div class="title">
                     <p><strong>Resultados GFNY 2015</strong></p>
-                    <a href="#" class="control-next hidden-xs">
+                    <div class="control-next hidden-xs">
                       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                       <span class="sr-only">Siguiente</span>
-                    </a>
+                    </div>
                   </div>
                 </a>
                 <a href="https://gfny.com/" class="col-xs-6 no-padding">
                   <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/sportograf-58993696.jpg">
                   <div class="title">
                     <p>Conoce los diferentes<strong><br>GFNY</strong></p>
-                    <a href="#" class="control-next hidden-xs">
+                    <div class="control-next hidden-xs">
                       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                       <span class="sr-only">Siguiente</span>
-                    </a>
+                    </div>
                   </div>
                 </a>
               </div>

@@ -8,10 +8,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
-        <link rel="stylesheet" href="/css/swiper.min.css">
-        <link rel="stylesheet" href="/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href="/gnfy/css/swiper.min.css">
+        <link rel="stylesheet" href="/gnfy/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/gnfy/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/gnfy/css/style.css">
     </head>
     <body>
         <div id="fb-root"></div>

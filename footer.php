@@ -5,18 +5,18 @@
     <div class="col-xs-10 col-xs-offset-1 linea-footer">
       <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/Linea%2Bsponsor-01.svg">
     </div>
-    <div class="col-xs-5 col-xs-offset-1 col-sm-2 col-sm-offset-3 crm-horizontal">
+    <a href="http://www.cargorisk.com/site/crm/index.php/es/page" class="col-xs-5 col-xs-offset-1 col-sm-2 col-sm-offset-3 crm-horizontal">
       <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/LOGO%2BCRM_WEB_HORIZONTAL.png">
-    </div>
-    <div class="col-xs-5 col-sm-2 col-sm-offset-2 strongman">
+    </a>
+    <a href="http://bicistrongman.com/" class="col-xs-5 col-sm-2 col-sm-offset-2 strongman">
       <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/STRONGMAN-logo.png">
-    </div>
+    </a>
   </div>
   <!-- END PATROCINADORES -->
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> 
-   <script src="/js/bootstrap.min.js"></script> 
-   <script src="/js/swiper.min.js"></script> 
-   <script src="/js/smooth-scroll.min.js"></script>
+   <script src="/gnfy/js/bootstrap.min.js"></script> 
+   <script src="/gnfy/js/swiper.min.js"></script> 
+   <script src="/gnfy/js/smooth-scroll.min.js"></script>
    <!-- Initialize Swiper -->
     <script>
     	smoothScroll.init();
@@ -38,7 +38,7 @@
           }            
       }
     </script>
-    <script src="/js/jquery.easypiechart.min.js"></script>
+    <script src="/gnfy/js/jquery.easypiechart.min.js"></script>
     <script>
         $(function() {
             var options = {
@@ -58,7 +58,7 @@
             });
         });
     </script>
-    <script src="/js/fluidvids.min.js"></script>
+    <script src="/gnfy/js/fluidvids.min.js"></script>
           <script>
             $(document).ready(function(){
               fluidvids.init({

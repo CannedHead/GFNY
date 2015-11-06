@@ -10,23 +10,24 @@
           <div class="col-xs-12">
 
             <!-- IMG1 -->
-            <div class="col-sm-6 no-padding img-index-one">
-              <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/bicicleta.jpg">
+            <a href="https://biciq.com/events/gfny-colombia-2016?locale=es" class="col-sm-6 no-padding img-index-one">
+              <!-- <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/bicicleta.jpg"> -->
+              <img class="img-responsive" src="/gnfy/img/SAVETHEDATE.jpg">
               <div class="title">
-                <p>El <strong>GFNY</strong> se toma<strong><br>Colombia</strong></p>
+                <p>Inscripciones abiertas para el <strong>GFNY</strong><strong><br>Colombia 2016</strong></p>
                 <a href="#" class="control-next">
                   <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                   <span class="sr-only">Siguiente</span>
                 </a>
               </div>
-            </div>
+            </a>
             <!-- END IMG1 -->
 
             <div class="col-sm-6 no-padding">
 
               <!-- IMG2 & IMG3 -->
               <div class="col-xs-12 no-padding">
-                <div class="col-xs-6 no-padding">
+                <a href="http://www.finalap.com/race/gfny-2015-147-km/" class="col-xs-6 no-padding">
                   <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/sportograf-58992472.jpg">
                   <div class="title">
                     <p><strong>Resultados GFNY 2015</strong></p>
@@ -35,17 +36,17 @@
                       <span class="sr-only">Siguiente</span>
                     </a>
                   </div>
-                </div>
-                <div class="col-xs-6 no-padding">
+                </a>
+                <a href="https://gfny.com/" class="col-xs-6 no-padding">
                   <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/sportograf-58993696.jpg">
                   <div class="title">
-                    <p>¿Porqué participar en el<strong><br>GFNY COLOMBIA?</strong></p>
+                    <p>Conoce los diferentes<strong><br>GFNY</strong></p>
                     <a href="#" class="control-next hidden-xs">
                       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                       <span class="sr-only">Siguiente</span>
                     </a>
                   </div>
-                </div>
+                </a>
               </div>
               <!-- END IMG2 & IMG3 -->
               
@@ -53,7 +54,7 @@
               <div class="col-xs-12  no-padding">
                 <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/sportograf-58993649.jpg">
                 <div class="title">
-                  <p><strong>GFNY</strong><br>Los paisajes de la sabana de Bogotá</p>
+                  <p>Vive una vez más el <strong>GFNY</strong>Colombia<br>2015</p>
                   <a href="#" class="control-next ">
                     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                     <span class="sr-only">Siguiente</span>
@@ -68,7 +69,8 @@
           <!-- PAUTA -->
           <div class="pauta col-xs-12">
             <!-- Pautaweb: 1095x65  Pautamobile:360x65-->
-            <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/1.gif">
+            <!--<img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/1.gif">-->
+            <img class="img-responsive hidden-xs" src="/gnfy/img/unnamed.gif">
           </div>
           <!-- END PAUTA -->
 

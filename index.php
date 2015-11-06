@@ -52,7 +52,7 @@
               
               <!-- IMG4 -->
               <div class="col-xs-12  no-padding">
-                <img class="img-responsive" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/sportograf-58993649.jpg">
+                <iframe class="video-home" width="560" height="315" src="https://www.youtube.com/embed/06OiSkCOMEg" frameborder="0" allowfullscreen></iframe>
                 <div class="title">
                   <p>Vive una vez más el <strong>GFNY</strong>Colombia<br>2015</p>
                   <a href="#" class="control-next ">

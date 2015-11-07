@@ -54,7 +54,7 @@
               <div class="col-xs-12  no-padding">
                 <iframe class="video-home" width="560" height="315" src="https://www.youtube.com/embed/06OiSkCOMEg" frameborder="0" allowfullscreen></iframe>
                 <div class="title">
-                  <p>Vive una vez más el <strong>GFNY</strong>Colombia<br>2015</p>
+                  <p>Vive una vez más el <strong>GFNY</strong><br>Colombia2015</p>
                   <a href="#" class="control-next ">
                     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                     <span class="sr-only">Siguiente</span>
@@ -69,8 +69,8 @@
           <!-- PAUTA -->
           <div class="pauta col-xs-12">
             <!-- Pautaweb: 1095x65  Pautamobile:360x65-->
-            <!--<img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/1.gif">-->
-            <img class="img-responsive hidden-xs" src="/img/unnamed.gif">
+            <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/1.gif">
+            <!--<img class="img-responsive hidden-xs" src="/img/unnamed.gif">-->
           </div>
           <!-- END PAUTA -->
 
@@ -194,8 +194,7 @@
             
             <div class="pauta col-xs-12 no-padding">
               <!-- Pautaweb: 1095x65  Pautamobile:360x65-->
-              <img class="img-responsive hidden-xs" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/1.gif">
-              <img class="img-responsive visible-xs-block" src="https://s3-sa-east-1.amazonaws.com/cannedhead.gfny/22.gif">
+              <img class="img-responsive" src="/img/unnamed.gif">
             </div>
 
             <!-- VIDEOS -->

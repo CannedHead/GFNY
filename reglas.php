@@ -14,7 +14,7 @@
 			
 			<div class='col-xs-12'>
 				<p id='regla-one'>
-					1. GFNY COLOMBIA ("GFNYCOL") es una competencia ciclística en la que los ciclistas son cronometrados individualmente.<br>
+					1. GFNY COLOMBIA ("GFNYCOL") es un ciclo-paseo ciclístico en el que los ciclistas son cronometrados individualmente. Este evento es para todo ciclista recreativo, no profesional.<br>
 				</p>
 			</div>
 
@@ -24,11 +24,11 @@
 			
 			<div class='col-xs-12'>
 				<p>
-					2.1. La inscripción a GFNYCOL está abierta a ciclistas mayores de 18 años. El registro se hace online en: www.gfny-colombia.com. Las inscripciones online se cierran el 16 de Abril; GFNYCOL se reserva todos los derechos sobre el número de inscripciones y fechas de cierre.<br><br>
+					2.1. La inscripción a GFNYCOL está abierta a ciclistas mayores de 18 años. El registro se hace online en: www.gfny-colombia.com. Las inscripciones online para esta segunda edicion se cierran el 15 de Marzo de 2016; GFNYCOL se reserva todos los derechos sobre el número de inscripciones y fechas de cierre.<br><br>
 
 					2.2. No se permite la inscripción a ciclistas sansionados por una federación a causa de doping.<br><br>
 
-					2.3. Los ciclistas que hayan tenido licencia profesional (UCI) en los utlimos cinco años prueden tomar parte en la carrera sin competir. En ese caso no deberán interrumpir la ruta de los ciclistas participantes en la carrera.<br><br>
+					2.3. Los ciclistas que hayan tenido licencia profesional (UCI) en los utlimos cinco años prueden tomar parte en la carrera sin competir. En ese caso no deberán interrumpir la ruta de los ciclistas participantes en la rodada.<br><br>
 
 					2.4. Los ciclistas deberán asegurarse de que su condición de salud sea apta para la competencia.<br><br>
 
@@ -59,7 +59,7 @@
 
 					3.6. Muñequera: Debe portarse la muñequera en todo momento durante el evento.<br><br>
 
-					3.7. Los participantes deben llevar al menos un neumático extra y una bomba en buen estado o un cartucho de CO2.<br><br>
+					3.7. Los participantes deben llevar al menos un neumático extra y una bomba en buen estado o un cartucho de CO2. El equipo básico de despinche y arreglo es responsabilidad de cada participante.<br><br>
 
 					3.8. Están prohibidos los audífonos / uso de repodroductores de música de cualquier formato.<br>
 
@@ -73,7 +73,7 @@
 			<div class='col-xs-12'>
 				<p>
 					4.1. La partida es a las 7:00 am.<br>
-					El acceso al área de partida se hará solo desde las entradas designadas, las cuales serán informadas por correo electrónico con un mes de anticipación a la carrera. A los corredores que no porten el número de bibicleta de GFNYCOL, el número de camiseta (si fue provisto por GFNYCOL), el casco y la muñequera en el punto de control, les será negado el acceso al área de partida.<br><br>
+					El acceso al área de partida se hará solo desde las entradas designadas, las cuales serán informadas por correo electrónico con 15 días de anticipación a la carrera. A los corredores que no porten el número de bibicleta de GFNYCOL, el número de camiseta (si fue provisto por GFNYCOL), el casco y la muñequera en el punto de control, les será negado el acceso al área de partida.<br><br>
 
 					4.2. Los corrales de partida cierran a las 6:30 am. Después de esa hora no se permitirá la entrada a ningún corredor a los corrales de partida, ni podrá participar en la competencia.<br><br>
 
@@ -127,13 +127,17 @@
 
 					8. Más de 65 m<br><br>
 
-					9. 65-69 h 10. Más de 70 h<br><br>
+					9. 65-69 h <br><br>
+
+					10. Más de 70 h<br><br>
 
 					11. Menos de 90 años la suma de edades Él y Ella: se suman los tiempos de un equipo de género mixto. Los ciclistas deben estar a menos de 30 segundos entre sí al pasar por el punto de control. Se permite y se promueve la asistencia externa entre compañeros de equipo. No se permiten instrumentos para empujar o arrastrar.<br><br>
 
 					12. Más de 90 años la suma de edades Él y Ella: se suman los tiempos de un equipo de género mixto. Los ciclistas deben estar a menos de 30 segundos entre sí al pasar por el punto de control. Se permite y se promueve la asistencia externa entre compañeros de equipo. No se permiten instrumentos para empujar o arrastrar.<br><br>
 
-					13. Equipo de cuatro (cualquier sexo): se suman los tiempos de los cuatro ciclistas más veloces de un equipo. 5.3. Los premios se entregarán a los primeros tres en cada categoría. La distribución de los premios queda a la discreción exclusiva de GFNYCOL. Los premios que no son reclamados durante la premiación serán repartidos entre otros ciclistas.<br><br>
+					13. Equipo de cuatro (cualquier sexo): se suman los tiempos de los cuatro ciclistas más veloces de un equipo.<br><br> 
+
+					5.3. Los premios se entregarán a los primeros tres en cada categoría. La distribución de los premios queda a la discreción exclusiva de GFNYCOL. Los premios que no son reclamados durante la premiación serán repartidos entre otros ciclistas.<br><br>
 
 					5.4. Los reclamos sobre el orden de llegada serán examinados y resueltos por el juez principal, cuya decisión es final e inapelable. <br>
 

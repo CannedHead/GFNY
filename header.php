@@ -63,7 +63,7 @@
                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">VIAJE<span class="caret"></span></a>
                  <ul class="dropdown-menu sub" style='left: -52%; !important'>
                    <li>
-                     <a href="/viaje/hoteles">HOTELES</a>
+                     <a href="#">HOTELES</a>
                    </li>
                    <li class='left-inline'>
                      <a href="#">CIUDAD</a>
@@ -76,11 +76,11 @@
                    </li>             
                  </ul>
               </li>
-              <li><a href="#">SHOP</a>
+              <li><a href="https://gfny.com/shop/" target="_blank">SHOP</a>
               </li>
-              <li><a href="#">BLOG</a>
+              <li class="hide"><a href="#">BLOG</a>
               </li>
-              <li><a href="#">VIP</a>
+              <li class="hide"><a href="#">VIP</a>
               </li>
               <li><a href="http://www.gfny.com" target="_blank">GFNY WORLD</a>
               </li>
